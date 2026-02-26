@@ -253,6 +253,15 @@
       "small_svg_url": ""
     },
     {
+      "name": "Cursor AI",
+      "author": "SodaCodeSave",
+      "size": 64075,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Cursor AI.ico",
+      "hash": "c978b83ab46cfcadcc9f70e90c180ad3926d9c2d",
+      "date": "2026-02-12T19:30:20+08:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/Cursor AI.svg"
+    },
+    {
       "name": "Deepseek",
       "author": "JangOetama",
       "size": 60955,
@@ -817,6 +826,24 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Shortcuts.ico",
       "hash": "aadf379202417b03e5ef3376ec73bf69adfef34d",
       "date": "2025-03-21T11:16:37+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "TRAE-1",
+      "author": "SodaCodeSave",
+      "size": 63197,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/TRAE-1.ico",
+      "hash": "30cbd12edc8c6b7aab1b45d86bfbeb41996404f1",
+      "date": "2026-02-12T19:30:20+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "TRAE",
+      "author": "SodaCodeSave",
+      "size": 60505,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/TRAE.ico",
+      "hash": "2c38356e1ea448b3be5933ebf666b5dd71fea4ed",
+      "date": "2026-02-12T19:30:20+08:00",
       "small_svg_url": ""
     },
     {
@@ -2789,6 +2816,15 @@
       "hash": "393c8acf026bcfd941f77a9adf9369113145bdfb",
       "date": "2022-01-25T17:05:06+07:00",
       "small_svg_url": ""
+    },
+    {
+      "name": "cascadeur",
+      "author": "mellowaxolotl",
+      "size": 65443,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/cascadeur.ico",
+      "hash": "d228935b55fd3bfdab1dd45468ebf6fa80bca08d",
+      "date": "2025-12-12T15:38:11+01:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/cascadeur.svg"
     },
     {
       "name": "cassandra",
@@ -11060,6 +11096,24 @@
       "hash": "c3b19dce70088f7352e31911c4688ba9958b711d",
       "date": "2025-02-19T11:02:11+08:00",
       "small_svg_url": ""
+    },
+    {
+      "name": "wegame-1",
+      "author": "SodaCodeSave",
+      "size": 59735,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/wegame-1.ico",
+      "hash": "1c52a734870ea06c80da6ad98930d341ff15c9db",
+      "date": "2026-02-12T15:45:40+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "wegame",
+      "author": "SodaCodeSave",
+      "size": 61379,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/wegame.ico",
+      "hash": "e836cd3478f5e18a784ee8a383bb8e4b60255506",
+      "date": "2026-02-12T15:45:40+08:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/wegame.svg"
     },
     {
       "name": "whatsapp",
