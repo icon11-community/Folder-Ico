@@ -2395,6 +2395,15 @@
       "small_svg_url": ""
     },
     {
+      "name": "bandizip",
+      "author": "JangOetama",
+      "size": 59289,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/bandizip.ico",
+      "hash": "ddbc549b79b61c0af834c7dcb37b832716540b52",
+      "date": "2026-02-27T13:28:29+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "bard",
       "author": "JangOetama",
       "size": 73032,
@@ -5662,6 +5671,24 @@
       "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/joomla.svg"
     },
     {
+      "name": "joplin-1",
+      "author": "JangOetama",
+      "size": 60257,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/joplin-1.ico",
+      "hash": "16ad427a7c407af5a6ad7b2c7692abfbcf28f719",
+      "date": "2026-02-27T13:28:29+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "joplin",
+      "author": "JangOetama",
+      "size": 57078,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/joplin.ico",
+      "hash": "8412368f8660da1abf84904ba752a58c8ef4dbd7",
+      "date": "2026-02-27T13:28:29+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "jquery",
       "author": "JangOetama",
       "size": 59315,
@@ -7390,6 +7417,24 @@
       "small_svg_url": ""
     },
     {
+      "name": "mpv_player-1",
+      "author": "JangOetama",
+      "size": 64678,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/mpv_player-1.ico",
+      "hash": "44341f0e75e5c897cf3c46d5b50c26b78edede7e",
+      "date": "2026-02-27T13:28:29+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "mpv_player",
+      "author": "JangOetama",
+      "size": 63575,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/mpv_player.ico",
+      "hash": "aaa8e780d960dcb1880eb1975c06cd0604210914",
+      "date": "2026-02-27T13:28:29+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "msi-1",
       "author": "JangOetama",
       "size": 59120,
@@ -8386,6 +8431,24 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/pixelated.ico",
       "hash": "c6acf9ae1e62432a68e537657cb0851f2064313a",
       "date": "2021-12-23T14:15:12+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "pixiv-2",
+      "author": "JangOetama",
+      "size": 63874,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/pixiv-2.ico",
+      "hash": "8e6afed4d70071e73ff830e7d68b6b16bdc196c7",
+      "date": "2026-02-27T13:28:29+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "pixiv",
+      "author": "JangOetama",
+      "size": 58524,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/pixiv.ico",
+      "hash": "bb1d8215c68e56b2b396c4b7394c65f439be860f",
+      "date": "2026-02-27T13:28:29+07:00",
       "small_svg_url": ""
     },
     {
@@ -11842,6 +11905,15 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/zbrush.ico",
       "hash": "8e569f1867c49d554726c2fe855959f0390da1b2",
       "date": "2022-01-25T17:05:06+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "zen_browser",
+      "author": "JangOetama",
+      "size": 68167,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/zen_browser.ico",
+      "hash": "3b1a73e8d9a219f34f37b7c698d9c36ba7a9b365",
+      "date": "2026-02-27T13:28:29+07:00",
       "small_svg_url": ""
     },
     {
