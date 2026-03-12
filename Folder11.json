@@ -253,15 +253,6 @@
       "small_svg_url": ""
     },
     {
-      "name": "Cursor AI",
-      "author": "SodaCodeSave",
-      "size": 64075,
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Cursor AI.ico",
-      "hash": "c978b83ab46cfcadcc9f70e90c180ad3926d9c2d",
-      "date": "2026-02-12T19:30:20+08:00",
-      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/Cursor AI.svg"
-    },
-    {
       "name": "Deepseek",
       "author": "JangOetama",
       "size": 60955,
@@ -930,10 +921,10 @@
     {
       "name": "ab_download_manager",
       "author": "Soda",
-      "size": 62760,
+      "size": 65630,
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ab_download_manager.ico",
-      "hash": "c79509a970799c6d8d02a1a60e0d0619c3bae54c",
-      "date": "2025-02-19T11:04:11+08:00",
+      "hash": "25807fb4ebc07f7d2833cfa3fb593b7ee78a2e97",
+      "date": "2026-03-08T12:54:57+08:00",
       "small_svg_url": ""
     },
     {
@@ -2458,6 +2449,15 @@
       "small_svg_url": ""
     },
     {
+      "name": "betterncm",
+      "author": "SodaCodeSave",
+      "size": 64712,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/betterncm.ico",
+      "hash": "2a6cd0903e14a9d71d8ceed5112cc236306d5dc1",
+      "date": "2026-03-08T13:18:26+08:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "bevy",
       "author": "JangOetama",
       "size": 65254,
@@ -2573,6 +2573,15 @@
       "hash": "3f36dce478339e83ed024d8241aa6e008cdb5b76",
       "date": "2022-01-21T09:51:28+07:00",
       "small_svg_url": ""
+    },
+    {
+      "name": "blue_archive_auto_script",
+      "author": "SodaCodeSave",
+      "size": 58156,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/blue_archive_auto_script.ico",
+      "hash": "f6f9808801f53add036999b90b716b3f1c828b94",
+      "date": "2026-03-08T13:04:55+08:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/blue_archive_auto_script.svg"
     },
     {
       "name": "blue_screen_of_death-1",
@@ -3160,6 +3169,15 @@
       "small_svg_url": ""
     },
     {
+      "name": "cpp",
+      "author": "SodaCodeSave",
+      "size": 61093,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/cpp.ico",
+      "hash": "8e03aa99d9a05f48ddf0ba8b4cb9b96a80ab6318",
+      "date": "2026-03-06T17:02:46+08:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "crewai",
       "author": "Jerome Offroy",
       "size": 74816,
@@ -3184,6 +3202,15 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/csharp-1.ico",
       "hash": "b25a6e085caf4eeb807c3a8c4c2e3757c04a8d8d",
       "date": "2023-11-08T14:58:12+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "csharp-2",
+      "author": "SodaCodeSave",
+      "size": 61442,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/csharp-2.ico",
+      "hash": "81e3e94d43964e0cce674c57ee86845060fd4d65",
+      "date": "2026-03-06T17:02:46+08:00",
       "small_svg_url": ""
     },
     {
@@ -3247,6 +3274,15 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/cupcut.ico",
       "hash": "d7a1dc2f0d25b5c01af5b8684d0e112991dda3a4",
       "date": "2025-02-24T09:06:41+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "cursor_ai",
+      "author": "SodaCodeSave",
+      "size": 64075,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/cursor_ai.ico",
+      "hash": "1717738574fd4d2d0068a6ebe6a23061b7afca03",
+      "date": "2026-03-08T12:54:57+08:00",
       "small_svg_url": ""
     },
     {
@@ -3778,6 +3814,24 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/emule.ico",
       "hash": "bfe2554d2d9f08c09cf08245ede352f8472727e5",
       "date": "2022-03-17T16:52:21+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "endfield-1",
+      "author": "SodaCodeSave",
+      "size": 66355,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/endfield-1.ico",
+      "hash": "f7397b7f754e0facebbfbde8283396d0f2c89aae",
+      "date": "2026-03-08T13:11:03+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "endfield",
+      "author": "SodaCodeSave",
+      "size": 80079,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/endfield.ico",
+      "hash": "c40f4c7f5c6a3ccc0042a7df33166d87aa7899a3",
+      "date": "2026-03-08T13:11:03+08:00",
       "small_svg_url": ""
     },
     {
@@ -7597,6 +7651,24 @@
       "small_svg_url": ""
     },
     {
+      "name": "netease_fever_games-1",
+      "author": "SodaCodeSave",
+      "size": 61917,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/netease_fever_games-1.ico",
+      "hash": "d732513d88df2403948ade989bbeccc9a91b3e85",
+      "date": "2026-03-08T12:54:57+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "netease_fever_games",
+      "author": "SodaCodeSave",
+      "size": 68392,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/netease_fever_games.ico",
+      "hash": "26b4e56ed3deaab6bd6090696bc4db3803ee5718",
+      "date": "2026-03-08T12:54:57+08:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "netease_mumu_player_12",
       "author": "DegreeQi",
       "size": 60595,
@@ -11174,7 +11246,7 @@
       "author": "SodaCodeSave",
       "size": 61379,
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/wegame.ico",
-      "hash": "e836cd3478f5e18a784ee8a383bb8e4b60255506",
+      "hash": "7c0132298c7bf4e4622f7be78fa1ad8475c56398",
       "date": "2026-02-12T15:45:40+08:00",
       "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/wegame.svg"
     },
