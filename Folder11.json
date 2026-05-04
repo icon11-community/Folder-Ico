@@ -3043,6 +3043,33 @@
       "small_svg_url": ""
     },
     {
+      "name": "codebuddy-1",
+      "author": "SodaCodeSave",
+      "size": 64577,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/codebuddy-1.ico",
+      "hash": "eb76e360625aa423de40121f13eba4b5789be818",
+      "date": "2026-04-18T15:24:22+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "codebuddy-2",
+      "author": "SodaCodeSave",
+      "size": 65753,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/codebuddy-2.ico",
+      "hash": "62513ec959bfd9db97ca5540fe848b48ee0ed36c",
+      "date": "2026-04-18T15:24:22+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "codebuddy",
+      "author": "SodaCodeSave",
+      "size": 71047,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/codebuddy.ico",
+      "hash": "ce4e9d548c76efe28cd3906cba673a98c6553ae8",
+      "date": "2026-04-17T20:45:02+08:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "codeigniter",
       "author": "JangOetama",
       "size": 62047,
@@ -10992,10 +11019,10 @@
     {
       "name": "visual_studio_code",
       "author": "JangOetama",
-      "size": 62010,
+      "size": 63815,
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/visual_studio_code.ico",
-      "hash": "4a667c4a5ab036500572956ef56a35d22cbb16f5",
-      "date": "2021-12-05T21:54:19+07:00",
+      "hash": "6487c9df5ff41540db508fd8d49c8938cbc1b7fe",
+      "date": "2026-04-17T20:56:42+08:00",
       "small_svg_url": ""
     },
     {
@@ -11680,6 +11707,33 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/wordpress.ico",
       "hash": "ccde48ea33e520abf46e1b8e4e62faedaebc78a3",
       "date": "2023-11-08T14:58:12+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "workbuddy-1",
+      "author": "SodaCodeSave",
+      "size": 64874,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/workbuddy-1.ico",
+      "hash": "7de4e01b74bc7021e435fda815ceccd292404b66",
+      "date": "2026-04-18T15:24:22+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "workbuddy-2",
+      "author": "SodaCodeSave",
+      "size": 66454,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/workbuddy-2.ico",
+      "hash": "ff3416fa21e4d17f1819363ce77f314cfd56bad4",
+      "date": "2026-04-18T15:24:22+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "workbuddy",
+      "author": "SodaCodeSave",
+      "size": 71976,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/workbuddy.ico",
+      "hash": "5f40663f7301f7a85bc914a5058207b4caa69813",
+      "date": "2026-04-17T20:45:02+08:00",
       "small_svg_url": ""
     },
     {
