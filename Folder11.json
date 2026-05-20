@@ -17171,6 +17171,114 @@
       "date": "2026-05-19T14:02:37+07:00",
       "small_svg_url": "",
       "is_history": false
+    },
+    {
+      "name": "google",
+      "author": "snw-mint",
+      "author_link": "https://github.com/snw-mint",
+      "author_profile": "https://avatars.githubusercontent.com/u/203568215?v=4",
+      "size": 59339,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/google.ico",
+      "hash": "8706512ba64798f3598d979c9f8b88553ca91f24",
+      "date": "2026-05-19T20:01:28-03:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "google_chrome_3",
+      "author": "snw-mint",
+      "author_link": "https://github.com/snw-mint",
+      "author_profile": "https://avatars.githubusercontent.com/u/203568215?v=4",
+      "size": 62982,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/google_chrome_3.ico",
+      "hash": "5d8367115941d979440e03194e6a8c9733432b10",
+      "date": "2026-05-19T20:01:28-03:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "google_cloud_2",
+      "author": "snw-mint",
+      "author_link": "https://github.com/snw-mint",
+      "author_profile": "https://avatars.githubusercontent.com/u/203568215?v=4",
+      "size": 59969,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/google_cloud_2.ico",
+      "hash": "9b65f484121301ccf73540959a9e9d46d9c7ec3d",
+      "date": "2026-05-19T20:01:28-03:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "google_docs_2",
+      "author": "snw-mint",
+      "author_link": "https://github.com/snw-mint",
+      "author_profile": "https://avatars.githubusercontent.com/u/203568215?v=4",
+      "size": 55044,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/google_docs_2.ico",
+      "hash": "8802035c9fc1e3c1b0c9d1f89ff56c1526cfd6fe",
+      "date": "2026-05-19T20:01:28-03:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "google_drive_2",
+      "author": "snw-mint",
+      "author_link": "https://github.com/snw-mint",
+      "author_profile": "https://avatars.githubusercontent.com/u/203568215?v=4",
+      "size": 57522,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/google_drive_2.ico",
+      "hash": "770d373b54e732a0c7b7a55e78cda8d733ab6d5f",
+      "date": "2026-05-19T20:01:28-03:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "google_gmail_2",
+      "author": "snw-mint",
+      "author_link": "https://github.com/snw-mint",
+      "author_profile": "https://avatars.githubusercontent.com/u/203568215?v=4",
+      "size": 58590,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/google_gmail_2.ico",
+      "hash": "4c26b7cac5c543c7303c2b953bf8c4d696e33845",
+      "date": "2026-05-19T20:01:28-03:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "google_photos_2",
+      "author": "snw-mint",
+      "author_link": "https://github.com/snw-mint",
+      "author_profile": "https://avatars.githubusercontent.com/u/203568215?v=4",
+      "size": 57672,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/google_photos_2.ico",
+      "hash": "ba871e6a8a1232fa14606fe63f7fd50758adf0ed",
+      "date": "2026-05-19T20:01:28-03:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "google_sheets_2",
+      "author": "snw-mint",
+      "author_link": "https://github.com/snw-mint",
+      "author_profile": "https://avatars.githubusercontent.com/u/203568215?v=4",
+      "size": 56862,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/google_sheets_2.ico",
+      "hash": "32a19e8bfa75f6d560cda0f6d79c4290893fd2fd",
+      "date": "2026-05-19T20:01:28-03:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "google_slides_2",
+      "author": "snw-mint",
+      "author_link": "https://github.com/snw-mint",
+      "author_profile": "https://avatars.githubusercontent.com/u/203568215?v=4",
+      "size": 55573,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/google_slides_2.ico",
+      "hash": "55dd74cd99fc43f9638eff3db91b569958093e46",
+      "date": "2026-05-19T20:01:28-03:00",
+      "small_svg_url": "",
+      "is_history": false
     }
   ]
 }
