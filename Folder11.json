@@ -7950,11 +7950,11 @@
       "author_link": "https://github.com/joffroy59",
       "author_profile": "https://avatars.githubusercontent.com/u/977031?v=4",
       "size": 76664,
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/langchain.ico",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/langchain_history_557a3543ceae358aef1d106aec2092d4c8e42940.ico",
       "hash": "557a3543ceae358aef1d106aec2092d4c8e42940",
       "date": "2025-06-10T01:03:34+02:00",
       "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/langchain.svg",
-      "is_history": false
+      "is_history": true
     },
     {
       "name": "laravel",
@@ -17430,11 +17430,11 @@
       "author_link": "https://github.com/JangOetama",
       "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
       "size": 73152,
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/crewai.ico",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/crewai_history_a65718cb05bceb1b1b1532069aaada06ed2d67f8.ico",
       "hash": "a65718cb05bceb1b1b1532069aaada06ed2d67f8",
       "date": "2026-05-26T17:14:18+07:00",
       "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/crewai.svg",
-      "is_history": false
+      "is_history": true
     },
     {
       "name": "ddev",
@@ -17454,11 +17454,11 @@
       "author_link": "https://github.com/JangOetama",
       "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
       "size": 67282,
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/joomla.ico",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/joomla_history_f5fe08eebeb3855a0a75eac504e71f2dea0b80e3.ico",
       "hash": "f5fe08eebeb3855a0a75eac504e71f2dea0b80e3",
       "date": "2026-05-26T17:14:18+07:00",
       "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/joomla.svg",
-      "is_history": false
+      "is_history": true
     },
     {
       "name": "lens",
@@ -17466,11 +17466,11 @@
       "author_link": "https://github.com/JangOetama",
       "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
       "size": 62615,
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/lens.ico",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/lens_history_e447ec3ca8fc3359371dda6994cd546ec210196f.ico",
       "hash": "e447ec3ca8fc3359371dda6994cd546ec210196f",
       "date": "2026-05-26T17:14:18+07:00",
       "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/lens.svg",
-      "is_history": false
+      "is_history": true
     },
     {
       "name": "stability_matrix",
@@ -17478,11 +17478,11 @@
       "author_link": "https://github.com/JangOetama",
       "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
       "size": 67609,
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/stability_matrix.ico",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/stability_matrix_history_17993a0d37a1b8e2de5a675a4af8735544d1b6ec.ico",
       "hash": "17993a0d37a1b8e2de5a675a4af8735544d1b6ec",
       "date": "2026-05-26T17:14:18+07:00",
       "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/stability_matrix.svg",
-      "is_history": false
+      "is_history": true
     },
     {
       "name": "ddev",
@@ -17492,6 +17492,66 @@
       "size": 66249,
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ddev.ico",
       "hash": "3644ce03fe2c31263492ab2ce5c15c4a3b935706",
+      "date": "2026-05-26T17:14:18+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "crewai",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 73152,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/crewai.ico",
+      "hash": "25d76756425989c1d02e46cdd8163a846ca1c48a",
+      "date": "2026-05-26T17:14:18+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "joomla",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 67282,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/joomla.ico",
+      "hash": "cfae0dd1c78ab0069cd6b613c2d38c5df78690cc",
+      "date": "2026-05-26T17:14:18+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "langchain",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 64505,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/langchain.ico",
+      "hash": "916eb53af237d8abd87e261e39c134267498095b",
+      "date": "2026-05-26T17:25:03+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "lens",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 62615,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/lens.ico",
+      "hash": "61b50b448c630fbcf99c3bb58f6acf2027604e3b",
+      "date": "2026-05-26T17:14:18+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "stability_matrix",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 67609,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/stability_matrix.ico",
+      "hash": "76552e5f5f3bb5432b055b75822cb1a063174537",
       "date": "2026-05-26T17:14:18+07:00",
       "small_svg_url": "",
       "is_history": false
