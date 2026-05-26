@@ -306,11 +306,11 @@
       "author_link": "https://github.com/JangOetama",
       "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
       "size": 64424,
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/CorelDRAW_VideoStudio.ico",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/CorelDRAW_VideoStudio_history_b4a8f02de46b7ba663060f4d5ab694c5603663eb.ico",
       "hash": "b4a8f02de46b7ba663060f4d5ab694c5603663eb",
       "date": "2025-02-13T09:49:46+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": true
     },
     {
       "name": "CorelDRAW_WordPerfect_Office",
@@ -426,11 +426,11 @@
       "author_link": "https://github.com/lanlan3292",
       "author_profile": "https://avatars.githubusercontent.com/u/149509569?v=4",
       "size": 64411,
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ETS2LA.ico",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ETS2LA_history_e6cbdb78b3b2c7008e5ecfb68e2d93d94959320d.ico",
       "hash": "e6cbdb78b3b2c7008e5ecfb68e2d93d94959320d",
       "date": "2025-07-12T04:29:45+08:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": true
     },
     {
       "name": "Electronic_Arts-1",
@@ -5454,11 +5454,11 @@
       "author_link": "https://github.com/JangOetama",
       "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
       "size": 63307,
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/firebase.ico",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/firebase_history_6bbe2f7cfe72fb79cd3593a1909c0087bc802660.ico",
       "hash": "6bbe2f7cfe72fb79cd3593a1909c0087bc802660",
       "date": "2023-11-10T14:14:26+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": true
     },
     {
       "name": "firefox",
@@ -7146,11 +7146,11 @@
       "author_link": "https://github.com/TejasNarkhede",
       "author_profile": "https://avatars.githubusercontent.com/u/85302742?v=4",
       "size": 53436,
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/itch.io-1.ico",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/itch.io-1_history_53ed6a8eae0bc6d6929cc44e7dc3d0888557bcbc.ico",
       "hash": "53ed6a8eae0bc6d6929cc44e7dc3d0888557bcbc",
       "date": "2025-01-21T23:39:45+05:30",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": true
     },
     {
       "name": "itch.io",
@@ -8286,11 +8286,11 @@
       "author_link": "https://github.com/JangOetama",
       "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
       "size": 64056,
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/logitech.ico",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/logitech_history_e15fbace8ec5cb9fe7654e9442773a683edda5d1.ico",
       "hash": "e15fbace8ec5cb9fe7654e9442773a683edda5d1",
       "date": "2022-01-06T19:21:03+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": true
     },
     {
       "name": "lua",
@@ -17349,6 +17349,66 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/oracle-1.ico",
       "hash": "8fe980fe30636db69cf0f0bc642790decf6c79ee",
       "date": "2026-05-26T12:18:31+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "CorelDRAW_VideoStudio",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 63342,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/CorelDRAW_VideoStudio.ico",
+      "hash": "7933beb9ba372313268e2987a65345739e06bb4e",
+      "date": "2026-05-26T12:39:29+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "ETS2LA",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 63121,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ETS2LA.ico",
+      "hash": "9254282fc416aa76323752279efc148b264d2951",
+      "date": "2026-05-26T12:39:29+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "firebase",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 62259,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/firebase.ico",
+      "hash": "d47b7061f88201d8d132d4c1bf4ac55ec6db2444",
+      "date": "2026-05-26T12:39:29+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "itch.io-1",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 58037,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/itch.io-1.ico",
+      "hash": "46ffa9e8935ff72e4eefcb14a3b58d10ce267274",
+      "date": "2026-05-26T12:39:29+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "logitech",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 62790,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/logitech.ico",
+      "hash": "c6e33809abe2fc8bec36cafc70c85cf2555a06cd",
+      "date": "2026-05-26T12:39:29+07:00",
       "small_svg_url": "",
       "is_history": false
     }
