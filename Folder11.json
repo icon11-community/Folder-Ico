@@ -17279,6 +17279,18 @@
       "date": "2026-05-19T20:01:28-03:00",
       "small_svg_url": "",
       "is_history": false
+    },
+    {
+      "name": "huawei",
+      "author": "wyfrj",
+      "author_link": "https://github.com/wyfrj",
+      "author_profile": "https://avatars.githubusercontent.com/u/242885189?v=4",
+      "size": 71224,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/huawei.ico",
+      "hash": "d0789d2bea73016d985563b33d830a2a5b876f41",
+      "date": "2026-05-25T12:26:37+07:00",
+      "small_svg_url": "",
+      "is_history": false
     }
   ]
 }
