@@ -11658,11 +11658,11 @@
       "author_link": "https://github.com/Kossay-Zemzem",
       "author_profile": "https://avatars.githubusercontent.com/u/162893336?v=4",
       "size": 57113,
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/oracle.ico",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/oracle_history_3773b3e1fb0f3e21f941f1d0459989076dc22784.ico",
       "hash": "3773b3e1fb0f3e21f941f1d0459989076dc22784",
       "date": "2025-02-12T15:05:38+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": true
     },
     {
       "name": "origin",
@@ -17325,6 +17325,18 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Forza_motorsport.ico",
       "hash": "9da780e9805c821a25f9b9fee4ada4d704a35dda",
       "date": "2026-05-26T12:00:20+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "oracle",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 57083,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/oracle.ico",
+      "hash": "2cbe49cee186acd4bebe782a8148bc5a8ee349b8",
+      "date": "2026-05-26T12:15:34+07:00",
       "small_svg_url": "",
       "is_history": false
     }
