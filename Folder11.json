@@ -11646,11 +11646,11 @@
       "author_link": "https://github.com/Kossay-Zemzem",
       "author_profile": "https://avatars.githubusercontent.com/u/162893336?v=4",
       "size": 55341,
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/oracle-1.ico",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/oracle-1_history_239f6f4c16e9ff73235faaba53d144ee95ecbbf9.ico",
       "hash": "239f6f4c16e9ff73235faaba53d144ee95ecbbf9",
       "date": "2025-02-12T15:05:38+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": true
     },
     {
       "name": "oracle",
@@ -17337,6 +17337,18 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/oracle.ico",
       "hash": "2cbe49cee186acd4bebe782a8148bc5a8ee349b8",
       "date": "2026-05-26T12:15:34+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "oracle-1",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 55282,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/oracle-1.ico",
+      "hash": "8fe980fe30636db69cf0f0bc642790decf6c79ee",
+      "date": "2026-05-26T12:18:31+07:00",
       "small_svg_url": "",
       "is_history": false
     }
