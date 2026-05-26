@@ -522,11 +522,11 @@
       "author_link": "https://github.com/Kossay-Zemzem",
       "author_profile": "https://avatars.githubusercontent.com/u/162893336?v=4",
       "size": 63196,
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Forza_horizon_5.ico",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Forza_horizon_5_history_8ab294268963c3a4a6ba548738370eaeda211585.ico",
       "hash": "8ab294268963c3a4a6ba548738370eaeda211585",
       "date": "2025-02-12T15:05:38+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": true
     },
     {
       "name": "Forza_motorsport",
@@ -17289,6 +17289,18 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/huawei.ico",
       "hash": "d0789d2bea73016d985563b33d830a2a5b876f41",
       "date": "2026-05-25T12:26:37+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "Forza_horizon_5",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 63213,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Forza_horizon_5.ico",
+      "hash": "a3a079fd73f3fa041a591c52aab7bf7d522a8797",
+      "date": "2026-05-26T11:59:31+07:00",
       "small_svg_url": "",
       "is_history": false
     }
