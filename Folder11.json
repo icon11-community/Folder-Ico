@@ -510,11 +510,11 @@
       "author_link": "https://github.com/Kossay-Zemzem",
       "author_profile": "https://avatars.githubusercontent.com/u/162893336?v=4",
       "size": 57827,
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Forza_horizon_4.ico",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Forza_horizon_4_history_ed6b32a8861636aea93bca9deac95ee12fdc3e75.ico",
       "hash": "ed6b32a8861636aea93bca9deac95ee12fdc3e75",
       "date": "2025-02-12T15:05:38+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": true
     },
     {
       "name": "Forza_horizon_5",
@@ -534,11 +534,11 @@
       "author_link": "https://github.com/Kossay-Zemzem",
       "author_profile": "https://avatars.githubusercontent.com/u/162893336?v=4",
       "size": 55245,
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Forza_motorsport.ico",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Forza_motorsport_history_898ef8c919fe124b07914d2ce22a15b7f419c31a.ico",
       "hash": "898ef8c919fe124b07914d2ce22a15b7f419c31a",
       "date": "2025-02-12T15:05:38+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": true
     },
     {
       "name": "Gemini",
@@ -17301,6 +17301,30 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Forza_horizon_5.ico",
       "hash": "a3a079fd73f3fa041a591c52aab7bf7d522a8797",
       "date": "2026-05-26T11:59:31+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "Forza_horizon_4",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 57761,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Forza_horizon_4.ico",
+      "hash": "9831b04a34e42c8e5850d0e201e6319a7db5dfe2",
+      "date": "2026-05-26T11:59:58+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "Forza_motorsport",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 50293,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Forza_motorsport.ico",
+      "hash": "9da780e9805c821a25f9b9fee4ada4d704a35dda",
+      "date": "2026-05-26T12:00:20+07:00",
       "small_svg_url": "",
       "is_history": false
     }
