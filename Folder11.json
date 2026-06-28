@@ -9198,11 +9198,11 @@
       "author_link": "https://github.com/JangOetama",
       "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
       "size": 60828,
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/microsoft_office-1.ico",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/microsoft_office-1_history_29d9d0dd95aff64344ef07b20b0367a7548ad6ab.ico",
       "hash": "29d9d0dd95aff64344ef07b20b0367a7548ad6ab",
       "date": "2021-12-23T17:05:09+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": true
     },
     {
       "name": "microsoft_office",
@@ -17553,6 +17553,54 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/stability_matrix.ico",
       "hash": "76552e5f5f3bb5432b055b75822cb1a063174537",
       "date": "2026-05-26T17:14:18+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "ClipStudio_Paint",
+      "author": "RightDaytoSay",
+      "author_link": "https://github.com/RightDaytoSay",
+      "author_profile": "https://avatars.githubusercontent.com/u/147352136?v=4",
+      "size": 68682,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ClipStudio_Paint.ico",
+      "hash": "fb70ffd6890dff111c2a74f6da2a25bfdf1c6b0e",
+      "date": "2026-06-17T10:51:34+01:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/ClipStudio_Paint.svg",
+      "is_history": false
+    },
+    {
+      "name": "claude",
+      "author": "mkacct",
+      "author_link": "https://github.com/mkacct",
+      "author_profile": "https://avatars.githubusercontent.com/u/15303941?v=4",
+      "size": 61260,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/claude.ico",
+      "hash": "aa21f1278ab5b1d652b09d6bca884da0400a8ab4",
+      "date": "2026-06-10T19:40:09-05:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/claude.svg",
+      "is_history": false
+    },
+    {
+      "name": "microsoft_office-1",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 60477,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/microsoft_office-1.ico",
+      "hash": "74c14a801c98ecc84c205e56427e90126fff4911",
+      "date": "2026-05-26T18:41:59+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "spring_green",
+      "author": "garuhm",
+      "author_link": "https://github.com/garuhm",
+      "author_profile": "https://avatars.githubusercontent.com/u/171451193?v=4",
+      "size": 68429,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/spring_green.ico",
+      "hash": "0d2e676a6514072df23d1aa47c87a5da8256aec4",
+      "date": "2026-06-06T13:00:09-04:00",
       "small_svg_url": "",
       "is_history": false
     }
