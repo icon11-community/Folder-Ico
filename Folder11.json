@@ -34924,6 +34924,78 @@
         "applications"
       ],
       "category_source": "fallback"
+    },
+    {
+      "name": "deepseek_harness-1",
+      "author": "iop666",
+      "author_link": "https://github.com/iop666",
+      "author_profile": "https://avatars.githubusercontent.com/u/61179634?v=4",
+      "size": 49570,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/deepseek_harness-1.ico",
+      "hash": "b2020ae16b7564404bb93e9f89b462fd45a635b6",
+      "date": "2026-09-11T20:34:54-07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "deepseek_harness",
+      "author": "iop666",
+      "author_link": "https://github.com/iop666",
+      "author_profile": "https://avatars.githubusercontent.com/u/61179634?v=4",
+      "size": 51411,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/deepseek_harness.ico",
+      "hash": "ecc317eea2ca344350fb2b0f491e6329fdbd88b5",
+      "date": "2026-09-11T20:34:54-07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "zai-1",
+      "author": "iop666",
+      "author_link": "https://github.com/iop666",
+      "author_profile": "https://avatars.githubusercontent.com/u/61179634?v=4",
+      "size": 48789,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/zai-1.ico",
+      "hash": "9310188c29205d9a021145305cfbac168757ee0b",
+      "date": "2026-09-11T20:34:54-07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "zai-2",
+      "author": "iop666",
+      "author_link": "https://github.com/iop666",
+      "author_profile": "https://avatars.githubusercontent.com/u/61179634?v=4",
+      "size": 48259,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/zai-2.ico",
+      "hash": "5a4ab4f2f1298cefd5a3a0c8cc828c23759735d8",
+      "date": "2026-09-11T20:34:54-07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "zai-3",
+      "author": "iop666",
+      "author_link": "https://github.com/iop666",
+      "author_profile": "https://avatars.githubusercontent.com/u/61179634?v=4",
+      "size": 48898,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/zai-3.ico",
+      "hash": "d6c55434d686d22364a77331958d2ee8f4bf6cc6",
+      "date": "2026-09-11T20:34:54-07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "zai",
+      "author": "iop666",
+      "author_link": "https://github.com/iop666",
+      "author_profile": "https://avatars.githubusercontent.com/u/61179634?v=4",
+      "size": 49898,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/zai.ico",
+      "hash": "1c4679cfd25a12587cc15c53b2995f3fe74355b6",
+      "date": "2026-09-11T20:34:54-07:00",
+      "small_svg_url": "",
+      "is_history": false
     }
   ],
   "categoryMetadata": {
