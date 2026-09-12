@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewCount": 26,
+  "reviewCount": 30,
   "icons": [
     {
       "name": "nextcloud",
@@ -129,6 +129,26 @@
     },
     {
       "name": "google_pixel",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "zai-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "zai-2",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "zai-3",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "zai",
       "suggestedCategory": "applications",
       "reason": "No deterministic rule or manual override matched."
     }

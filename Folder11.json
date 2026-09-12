@@ -34935,7 +34935,17 @@
       "hash": "b2020ae16b7564404bb93e9f89b462fd45a635b6",
       "date": "2026-09-11T20:34:54-07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "ai",
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "deepseek",
+        "harness",
+        "ai"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "deepseek_harness",
@@ -34947,7 +34957,17 @@
       "hash": "ecc317eea2ca344350fb2b0f491e6329fdbd88b5",
       "date": "2026-09-11T20:34:54-07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "ai",
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "deepseek",
+        "harness",
+        "ai"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "zai-1",
@@ -34959,7 +34979,16 @@
       "hash": "9310188c29205d9a021145305cfbac168757ee0b",
       "date": "2026-09-11T20:34:54-07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "zai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "zai-2",
@@ -34971,7 +35000,16 @@
       "hash": "5a4ab4f2f1298cefd5a3a0c8cc828c23759735d8",
       "date": "2026-09-11T20:34:54-07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "zai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "zai-3",
@@ -34983,7 +35021,16 @@
       "hash": "d6c55434d686d22364a77331958d2ee8f4bf6cc6",
       "date": "2026-09-11T20:34:54-07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "zai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "zai",
@@ -34995,14 +35042,23 @@
       "hash": "1c4679cfd25a12587cc15c53b2995f3fe74355b6",
       "date": "2026-09-11T20:34:54-07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "zai",
+        "applications"
+      ],
+      "category_source": "fallback"
     }
   ],
   "categoryMetadata": {
     "schemaVersion": 1,
     "method": "deterministic-rules",
-    "currentIconCount": 1460,
-    "reviewCount": 26,
+    "currentIconCount": 1466,
+    "reviewCount": 30,
     "categoryCounts": [
       {
         "category": "development",
@@ -35061,16 +35117,16 @@
         "count": 34
       },
       {
+        "category": "ai",
+        "count": 33
+      },
+      {
         "category": "development.embedded",
         "count": 31
       },
       {
-        "category": "ai",
-        "count": 31
-      },
-      {
         "category": "applications",
-        "count": 26
+        "count": 30
       },
       {
         "category": "productivity.documents",
