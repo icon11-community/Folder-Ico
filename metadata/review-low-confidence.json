@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewCount": 30,
+  "reviewCount": 32,
   "icons": [
     {
       "name": "nextcloud",
@@ -149,6 +149,16 @@
     },
     {
       "name": "zai",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "qoder-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "qoder",
       "suggestedCategory": "applications",
       "reason": "No deterministic rule or manual override matched."
     }
