@@ -35052,6 +35052,30 @@
         "applications"
       ],
       "category_source": "fallback"
+    },
+    {
+      "name": "qoder-1",
+      "author": "iop666",
+      "author_link": "https://github.com/iop666",
+      "author_profile": "https://avatars.githubusercontent.com/u/61179634?v=4",
+      "size": 61682,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/qoder-1.ico",
+      "hash": "81f9c72f3dc660c09d21d43113a71b66cd653216",
+      "date": "2026-10-04T08:53:46+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "qoder",
+      "author": "iop666",
+      "author_link": "https://github.com/iop666",
+      "author_profile": "https://avatars.githubusercontent.com/u/61179634?v=4",
+      "size": 59216,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/qoder.ico",
+      "hash": "33262ab03364b0e0fa022ed79fa446c667570fe1",
+      "date": "2026-10-04T08:53:46+07:00",
+      "small_svg_url": "",
+      "is_history": false
     }
   ],
   "categoryMetadata": {
