@@ -35105,7 +35105,18 @@
       "hash": "1483d14587896c73a438086daff5f210133fc9a7",
       "date": "2026-10-04T09:04:19+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "design",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "adobe",
+        "substance",
+        "designer",
+        "design"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "adobe_substance_modeler",
@@ -35117,7 +35128,18 @@
       "hash": "2e12148df08ba016b3ae2fe96823b2d0e937355c",
       "date": "2026-10-04T09:04:19+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "design",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "adobe",
+        "substance",
+        "modeler",
+        "design"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "adobe_substance_stager",
@@ -35129,7 +35151,18 @@
       "hash": "8f5f6b7ac10a173e95fb1f0d03a08490c75debd5",
       "date": "2026-10-04T09:04:19+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "design",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "adobe",
+        "substance",
+        "stager",
+        "design"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "lego",
@@ -35141,7 +35174,16 @@
       "hash": "15ad48837e11d66f30ead09eb4c6ee4df613b01e",
       "date": "2026-10-04T09:04:19+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "lego",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "nilesoft_shell",
@@ -35153,14 +35195,24 @@
       "hash": "fc344aa1232c6ee9ff8065d9815e096f33befb88",
       "date": "2026-10-04T08:54:33+07:00",
       "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/nilesoft_shell.svg",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "nilesoft",
+        "shell",
+        "applications"
+      ],
+      "category_source": "fallback"
     }
   ],
   "categoryMetadata": {
     "schemaVersion": 1,
     "method": "deterministic-rules",
-    "currentIconCount": 1468,
-    "reviewCount": 32,
+    "currentIconCount": 1473,
+    "reviewCount": 34,
     "categoryCounts": [
       {
         "category": "development",
@@ -35168,7 +35220,7 @@
       },
       {
         "category": "design",
-        "count": 84
+        "count": 87
       },
       {
         "category": "media.video",
@@ -35219,12 +35271,12 @@
         "count": 34
       },
       {
-        "category": "ai",
-        "count": 33
+        "category": "applications",
+        "count": 34
       },
       {
-        "category": "applications",
-        "count": 32
+        "category": "ai",
+        "count": 33
       },
       {
         "category": "development.embedded",

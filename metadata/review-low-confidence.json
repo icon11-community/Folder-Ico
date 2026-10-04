@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewCount": 32,
+  "reviewCount": 34,
   "icons": [
     {
       "name": "nextcloud",
@@ -159,6 +159,16 @@
     },
     {
       "name": "qoder",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "lego",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "nilesoft_shell",
       "suggestedCategory": "applications",
       "reason": "No deterministic rule or manual override matched."
     }
