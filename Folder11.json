@@ -38308,7 +38308,16 @@
       "hash": "d9bd00e05923143890f0de5fad64d9b1a3255087",
       "date": "2026-10-16T14:25:25+07:00",
       "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/cpu-z.svg",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "cpu",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "librewolf",
@@ -38320,14 +38329,23 @@
       "hash": "6838ea8714047f08db47ce0c4d851795e9f05910",
       "date": "2026-10-16T14:25:25+07:00",
       "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/librewolf.svg",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "librewolf",
+        "applications"
+      ],
+      "category_source": "fallback"
     }
   ],
   "categoryMetadata": {
     "schemaVersion": 1,
     "method": "deterministic-rules",
-    "currentIconCount": 1614,
-    "reviewCount": 153,
+    "currentIconCount": 1616,
+    "reviewCount": 155,
     "categoryCounts": [
       {
         "category": "development",
@@ -38335,7 +38353,7 @@
       },
       {
         "category": "applications",
-        "count": 153
+        "count": 155
       },
       {
         "category": "design",

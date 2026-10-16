@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewCount": 153,
+  "reviewCount": 155,
   "icons": [
     {
       "name": "nextcloud",
@@ -764,6 +764,16 @@
     },
     {
       "name": "zai-2",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "cpu-z",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "librewolf",
       "suggestedCategory": "applications",
       "reason": "No deterministic rule or manual override matched."
     }
