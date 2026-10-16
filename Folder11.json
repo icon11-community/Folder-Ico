@@ -38297,6 +38297,30 @@
         "applications"
       ],
       "category_source": "fallback"
+    },
+    {
+      "name": "cpu-z",
+      "author": "ropp5pop",
+      "author_link": "https://github.com/ropp5pop",
+      "author_profile": "https://avatars.githubusercontent.com/u/58117887?v=4",
+      "size": 59499,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/cpu-z.ico",
+      "hash": "d9bd00e05923143890f0de5fad64d9b1a3255087",
+      "date": "2026-10-16T14:25:25+07:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/cpu-z.svg",
+      "is_history": false
+    },
+    {
+      "name": "librewolf",
+      "author": "ropp5pop",
+      "author_link": "https://github.com/ropp5pop",
+      "author_profile": "https://avatars.githubusercontent.com/u/58117887?v=4",
+      "size": 59691,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/librewolf.ico",
+      "hash": "6838ea8714047f08db47ce0c4d851795e9f05910",
+      "date": "2026-10-16T14:25:25+07:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/librewolf.svg",
+      "is_history": false
     }
   ],
   "categoryMetadata": {
