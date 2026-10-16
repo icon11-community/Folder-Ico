@@ -34931,11 +34931,11 @@
       "author_link": "https://github.com/iop666",
       "author_profile": "https://avatars.githubusercontent.com/u/61179634?v=4",
       "size": 49570,
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/deepseek_harness-1.ico",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/deepseek_harness-1_history_b2020ae16b7564404bb93e9f89b462fd45a635b6.ico",
       "hash": "b2020ae16b7564404bb93e9f89b462fd45a635b6",
       "date": "2026-09-11T20:34:54-07:00",
       "small_svg_url": "",
-      "is_history": false,
+      "is_history": true,
       "category": "ai",
       "categories": [
         "ai"
@@ -34996,11 +34996,11 @@
       "author_link": "https://github.com/iop666",
       "author_profile": "https://avatars.githubusercontent.com/u/61179634?v=4",
       "size": 48259,
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/zai-2.ico",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/zai-2_history_5a4ab4f2f1298cefd5a3a0c8cc828c23759735d8.ico",
       "hash": "5a4ab4f2f1298cefd5a3a0c8cc828c23759735d8",
       "date": "2026-09-11T20:34:54-07:00",
       "small_svg_url": "",
-      "is_history": false,
+      "is_history": true,
       "category": "applications",
       "categories": [
         "applications"
@@ -38233,6 +38233,42 @@
         "applications"
       ],
       "category_source": "fallback"
+    },
+    {
+      "name": "azahar",
+      "author": "HeMing505",
+      "author_link": "https://github.com/HeMing505",
+      "author_profile": "https://avatars.githubusercontent.com/u/37235275?v=4",
+      "size": 69819,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/azahar.ico",
+      "hash": "a2390b7bdfec96732f3a3ce5a425d8f445508278",
+      "date": "2026-10-16T14:23:49+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "deepseek_harness-1",
+      "author": "iop666",
+      "author_link": "https://github.com/iop666",
+      "author_profile": "https://avatars.githubusercontent.com/u/61179634?v=4",
+      "size": 51427,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/deepseek_harness-1.ico",
+      "hash": "40e103aaf00cb510a55a6aafd7867508c7ac9aef",
+      "date": "2026-10-16T14:11:20+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "zai-2",
+      "author": "iop666",
+      "author_link": "https://github.com/iop666",
+      "author_profile": "https://avatars.githubusercontent.com/u/61179634?v=4",
+      "size": 55236,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/zai-2.ico",
+      "hash": "c8cfa690fbb81cc2038dbc0d10507a6ec0cd7b16",
+      "date": "2026-10-16T14:11:20+07:00",
+      "small_svg_url": "",
+      "is_history": false
     }
   ],
   "categoryMetadata": {
