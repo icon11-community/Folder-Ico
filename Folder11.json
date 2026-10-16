@@ -35217,7 +35217,16 @@
       "hash": "d921d57323827c887f6f2af04054faed13b7fee4",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "ai",
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "deepseek",
+        "ai"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "Gemini-1",
@@ -35229,7 +35238,16 @@
       "hash": "08da5ecc8076753f799fffe22a52b2fd39263cc3",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "ai",
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "gemini",
+        "ai"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "Gemini-2",
@@ -35241,7 +35259,16 @@
       "hash": "82c7987f707c5b6e6efdd30e65d5c18ce00648fb",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "ai",
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "gemini",
+        "ai"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "adobe_firefly",
@@ -35253,7 +35280,17 @@
       "hash": "7f11c8fd7d6f942d689d0c92de10d9a9112543e5",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "design",
+      "categories": [
+        "design"
+      ],
+      "tags": [
+        "adobe",
+        "firefly",
+        "design"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "ai21_labs",
@@ -35265,7 +35302,17 @@
       "hash": "c01f8b6fb62ef049f00bddd26b49495706bdeb36",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "ai21",
+        "labs",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "aider_ai",
@@ -35277,7 +35324,17 @@
       "hash": "21e7c4d89624e065ede61ab4e2e179e99141db68",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "aider",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "aliyun_bailian",
@@ -35289,7 +35346,17 @@
       "hash": "2aa51b93cdbe74bdf2df681e7f9af71578784a75",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "aliyun",
+        "bailian",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "amp_code",
@@ -35301,7 +35368,17 @@
       "hash": "7d0d76f324b6d262a39e46be1382a196b7605e95",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "development",
+      "categories": [
+        "development"
+      ],
+      "tags": [
+        "amp",
+        "code",
+        "development"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "arc_browser",
@@ -35313,7 +35390,17 @@
       "hash": "3e23d89e566a936751a4e27af3e35cc1450436c4",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "web",
+      "categories": [
+        "web"
+      ],
+      "tags": [
+        "arc",
+        "browser",
+        "web"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "autogen",
@@ -35325,7 +35412,16 @@
       "hash": "6066ee789ed5bb83544d9426575a39838b6dbcc0",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "autogen",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "baai-1",
@@ -35337,7 +35433,16 @@
       "hash": "5923e519be8dc11beeb3a65dac6a05bcc6ce8614",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "baai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "baai",
@@ -35349,7 +35454,16 @@
       "hash": "faea9ad52e5d7dd6e350af8679e690c7329b3d99",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "baai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "baichuan_ai",
@@ -35361,7 +35475,17 @@
       "hash": "26da4657ea825c87c13dc2913563605ada1a01d2",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "baichuan",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "baidu",
@@ -35373,7 +35497,16 @@
       "hash": "bb0b87392120797be2a979ff5a77f20fdef0fdaf",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "baidu",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "bytedance",
@@ -35385,7 +35518,16 @@
       "hash": "18aece962094f5e168bf2263eb781b31513e09d7",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "bytedance",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "cerebras",
@@ -35397,7 +35539,16 @@
       "hash": "92f3c3f31dc9f7fd32fff1519cd374758091bbbf",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "cerebras",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "chatgpt-1",
@@ -35409,7 +35560,16 @@
       "hash": "23f86a67cdd8407d03c342315f65e83b707af48b",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "ai",
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "chatgpt",
+        "ai"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "chatgpt-2",
@@ -35421,7 +35581,16 @@
       "hash": "4dbbbb2a0c9b473c482e3ac9c1d6105033c3990e",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "ai",
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "chatgpt",
+        "ai"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "chatgpt-3",
@@ -35433,7 +35602,16 @@
       "hash": "4a3c1eff14b7c139be3013b600383d65fc3b5786",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "ai",
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "chatgpt",
+        "ai"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "cherry_studio",
@@ -35445,7 +35623,17 @@
       "hash": "2e0fd2d982af4d0f1aa787e8b6cc2c3a77467048",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "cherry",
+        "studio",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "claude-1",
@@ -35457,7 +35645,16 @@
       "hash": "341892d9578d160cdeb12765764adb787d71968b",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "ai",
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "claude",
+        "ai"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "claude-2",
@@ -35469,7 +35666,16 @@
       "hash": "52d7276b964966467b2ee8ebbbc37400a29d1b36",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "ai",
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "claude",
+        "ai"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "claude_code-1",
@@ -35481,7 +35687,19 @@
       "hash": "60635d1f8c5ce72c4f7c02b8cf58d28dee3f3629",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "development",
+      "categories": [
+        "development",
+        "ai"
+      ],
+      "tags": [
+        "claude",
+        "code",
+        "development",
+        "ai"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "claude_code-2",
@@ -35493,7 +35711,19 @@
       "hash": "5a2a4559c906d543392ec7f2245a42d008192dd0",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "development",
+      "categories": [
+        "development",
+        "ai"
+      ],
+      "tags": [
+        "claude",
+        "code",
+        "development",
+        "ai"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "claude_code",
@@ -35505,7 +35735,19 @@
       "hash": "6a974dc23b11cc84b287fed6345837a25d24f848",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "development",
+      "categories": [
+        "development",
+        "ai"
+      ],
+      "tags": [
+        "claude",
+        "code",
+        "development",
+        "ai"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "cline_ai-1",
@@ -35517,7 +35759,17 @@
       "hash": "6dabca99623d92d9c59966cb5e77615f26cef2d6",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "cline",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "cline_ai",
@@ -35529,7 +35781,17 @@
       "hash": "211e97a7b58a2e93627d042bd0f28a952eb7b6a3",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "cline",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "code_rabbit",
@@ -35541,7 +35803,17 @@
       "hash": "a70de2f600fcb1cbdb31496e8f242dde4928cebf",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "development",
+      "categories": [
+        "development"
+      ],
+      "tags": [
+        "code",
+        "rabbit",
+        "development"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "codex-1",
@@ -35553,7 +35825,16 @@
       "hash": "b14df7feaa922e998a66cb2b8d471a91cc95b045",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "codex",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "codex-2",
@@ -35565,7 +35846,16 @@
       "hash": "80a6dd02fbcc84b57d952e49ed14553cda9b0840",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "codex",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "codex-3",
@@ -35577,7 +35867,16 @@
       "hash": "447cf54e45012e452f1f089dabd2d6e8c88f97d9",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "codex",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "codex",
@@ -35589,7 +35888,16 @@
       "hash": "4b7f5cc89ab3b50422ef4ac6b85c1e885cd4233a",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "codex",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "cohere",
@@ -35601,7 +35909,16 @@
       "hash": "0323dcd6aba2c3b1e3396f2b5ebad2019ffabab0",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "cohere",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "coze",
@@ -35613,7 +35930,16 @@
       "hash": "93c0f5fcc9dd4c2f270ed3991e78a4f68b29b840",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "coze",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "cursor_ai-1",
@@ -35625,7 +35951,16 @@
       "hash": "ad93313067f029e602e58b3909c7424c6dc24a91",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "ai",
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "cursor",
+        "ai"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "devin_ai",
@@ -35637,7 +35972,17 @@
       "hash": "ee14d39b343652330f95de58ae13a567539565c9",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "devin",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "dify_ai",
@@ -35649,7 +35994,17 @@
       "hash": "94116d9f4022f6579cc493d86ae666897b109c6b",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "dify",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "doubao_model",
@@ -35661,7 +36016,17 @@
       "hash": "f716ab7a9d1fc7484aa1e39b751928f70ec5dc96",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "doubao",
+        "model",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "eleven_labs",
@@ -35673,7 +36038,17 @@
       "hash": "c1b2f523c12a96ff344c27d5de9e9edba335cb14",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "eleven",
+        "labs",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "exa_ai",
@@ -35685,7 +36060,17 @@
       "hash": "464219569143902ae2324f951faeeb3baad5605d",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "exa",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "factory_ai",
@@ -35697,7 +36082,17 @@
       "hash": "41016b3d648a6ae59b87e9a6deccf86f38ad9c34",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "factory",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "fireworks_ai",
@@ -35709,7 +36104,17 @@
       "hash": "cf88fbdf46de7c822982117244d8947769812955",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "fireworks",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "flowise",
@@ -35721,7 +36126,16 @@
       "hash": "9e397b4594ea10833d5c703540d83f640d77fac5",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "flowise",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "google_antigravity-1",
@@ -35733,7 +36147,17 @@
       "hash": "029e06488fe4ef997d789dc4a348853b1ca6646f",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "google",
+        "antigravity",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "google_antigravity",
@@ -35745,7 +36169,17 @@
       "hash": "dc31c8b7e6df17e9cc20cd0253f4f42143e2d99e",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "google",
+        "antigravity",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "google_jules",
@@ -35757,7 +36191,17 @@
       "hash": "c93ffd879b2421651b38c33be3577603f94eb288",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "google",
+        "jules",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "goose_ai",
@@ -35769,7 +36213,17 @@
       "hash": "2969a31357b8a0efe99e45831485d0b2565f0b10",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "goose",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "grok-1",
@@ -35781,7 +36235,16 @@
       "hash": "0cfab1a089b013c98693db118b26dd0bcfa3ebd7",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "grok",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "grok",
@@ -35793,7 +36256,16 @@
       "hash": "45409a3acb376506ec750f4aca25eaa9658d19f1",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "grok",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "groq",
@@ -35805,7 +36277,16 @@
       "hash": "d92786d18bb2804b861229bcd380f8d619ae1dd8",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "groq",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "hailuo_ai",
@@ -35817,7 +36298,17 @@
       "hash": "f584b7bbbe4bf869d424544c7e273a0cd9501da8",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "hailuo",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "huggingface-1",
@@ -35829,7 +36320,16 @@
       "hash": "36f327d4b5c664ba50cbee126ddc78e64bb37d70",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "ai",
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "huggingface",
+        "ai"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "huggingface-2",
@@ -35841,7 +36341,16 @@
       "hash": "6a7bd8984f0aa8311d618fbb0cab516987fe786c",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "ai",
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "huggingface",
+        "ai"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "hypergryph",
@@ -35853,7 +36362,16 @@
       "hash": "b3d19228f0788c43dd3dc1fdee8db5c50bf8a94a",
       "date": "2026-10-16T14:10:22+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "hypergryph",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "ibm",
@@ -35865,7 +36383,16 @@
       "hash": "65548e5e1eaef0913a6dfe45b10fa3ee3f64903d",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "ibm",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "ideogram",
@@ -35877,7 +36404,16 @@
       "hash": "3ba979e84574560f3081b44f366081703e268b17",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "ideogram",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "iflytek_spark",
@@ -35889,7 +36425,17 @@
       "hash": "8af342b2496e71e57faf4f45c920d270ff1475df",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "iflytek",
+        "spark",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "jimeng_ai",
@@ -35901,7 +36447,17 @@
       "hash": "3ae06926d27de30fc6a46686e17a91b446a4ae25",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "jimeng",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "kilo_code",
@@ -35913,7 +36469,17 @@
       "hash": "875b696ab3ec738c32c3d2bacf65f4130c49a03d",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "development",
+      "categories": [
+        "development"
+      ],
+      "tags": [
+        "kilo",
+        "code",
+        "development"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "kimi_ai-1",
@@ -35925,7 +36491,17 @@
       "hash": "b69f59121d98193fd0267e0a1aa39573be5eccba",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "kimi",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "kimi_ai",
@@ -35937,7 +36513,17 @@
       "hash": "751d657577a7d3d516618eb175951ac002028826",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "kimi",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "kiro_ai-1",
@@ -35949,7 +36535,17 @@
       "hash": "aa53f7a1e1bedd61a329ba0ff65cf751a006cfa8",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "kiro",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "kiro_ai",
@@ -35961,7 +36557,17 @@
       "hash": "065defcde04bfacab029f9171b1b5eea2c3c5fb0",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "kiro",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "kling_ai",
@@ -35973,7 +36579,17 @@
       "hash": "80e50323154c9173c635b71ff6c9d6dc2e0b2b8a",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "kling",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "libre_chat",
@@ -35985,7 +36601,17 @@
       "hash": "afcea892152303e00c55c63ea628f735769801b8",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "libre",
+        "chat",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "llama_index",
@@ -35997,7 +36623,17 @@
       "hash": "9c34ccd3353b6a136b378aaef9bacb99b26d5a38",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "llama",
+        "index",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "lovable",
@@ -36009,7 +36645,16 @@
       "hash": "b3e2eb748dfc84d7f2f5a4d2bb614d6bc25312e0",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "lovable",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "luma_ai",
@@ -36021,7 +36666,17 @@
       "hash": "163100c0ce8b3618dd94321276a7411bce638fc8",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "luma",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "manus_ai-1",
@@ -36033,7 +36688,17 @@
       "hash": "d29aa0da43930018018099bfcc76e9b149524ec3",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "manus",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "manus_ai",
@@ -36045,7 +36710,17 @@
       "hash": "bdf71c434fbbdb0fc51ce34158015f7723a73477",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "manus",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "meituan_longcat",
@@ -36057,7 +36732,17 @@
       "hash": "62fc10cc920a7f15fd1b309a7a26b75e5c78c228",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "meituan",
+        "longcat",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "meshy_ai",
@@ -36069,7 +36754,17 @@
       "hash": "87d23e8451db007446eaf89b97ab2af7e6f0f713",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "meshy",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "meta-1",
@@ -36081,7 +36776,16 @@
       "hash": "401ab6a1a5ef95436d20de8bc9e72056b379ae0f",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "meta",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "meta",
@@ -36093,7 +36797,16 @@
       "hash": "2e9bfcf4eacb468ec48d773314c54b8be3e627a9",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "meta",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "milvus",
@@ -36105,7 +36818,16 @@
       "hash": "ed3363351a8ab18c563b64132024b10720816a7a",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "milvus",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "minimax-1",
@@ -36117,7 +36839,16 @@
       "hash": "3238b9d2a04d99de7e5aa1f9a01fb6301f65c84a",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "minimax",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "minimax-2",
@@ -36129,7 +36860,16 @@
       "hash": "c1efe2d2db365f167fddb2efa655ba7fc06355da",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "minimax",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "minimax-3",
@@ -36141,7 +36881,16 @@
       "hash": "bb91edb7f28ff6e42028f3f3174aa24a564fde58",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "minimax",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "minimax",
@@ -36153,7 +36902,16 @@
       "hash": "d118eb47aece270226056a02fead8b4742ec2e0b",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "minimax",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "mistral_ai-1",
@@ -36165,7 +36923,17 @@
       "hash": "fc509a7411477441bb48abdb752427ad763c883c",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "mistral",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "mistral_ai",
@@ -36177,7 +36945,17 @@
       "hash": "98bce6bfb490281507601f538db4bc52c08a4576",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "mistral",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "model_context_protocol",
@@ -36189,7 +36967,18 @@
       "hash": "07b2fa2599ee54ebaf9c2ac25b1f8325d3052afc",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "model",
+        "context",
+        "protocol",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "model_scope",
@@ -36201,7 +36990,17 @@
       "hash": "c8b97a3500092fb2e1f88f81ff2307549886cd7e",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "model",
+        "scope",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "moonshot_ai-1",
@@ -36213,7 +37012,17 @@
       "hash": "5916eff6ed2362034e0c560cdc1ea75422a10993",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "moonshot",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "moonshot_ai",
@@ -36225,7 +37034,17 @@
       "hash": "8ceb3cc32e5ca52f19a5df79edc2231a48fa366f",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "moonshot",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "n8n",
@@ -36237,7 +37056,16 @@
       "hash": "00fac318c89021d0e888f2862dfc6a28b07c3b4c",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "n8n",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "open_hands",
@@ -36249,7 +37077,17 @@
       "hash": "e58a69285869f0a7e5f095bfb824a770ff0acfe6",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "open",
+        "hands",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "open_webui",
@@ -36261,7 +37099,17 @@
       "hash": "585c5eeb8644f85ffb83ead011d5ef11ac3443b4",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "open",
+        "webui",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "openai-dot",
@@ -36273,7 +37121,17 @@
       "hash": "69d64c3ff80e5667a881c827de48815c7b84429a",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "openai",
+        "dot",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "opencode-1",
@@ -36285,7 +37143,16 @@
       "hash": "487f0b1f5687eabcdda886c5ccf726e06d386189",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "opencode",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "opencode",
@@ -36297,7 +37164,16 @@
       "hash": "3ff209be41036eb01444c2fa0989cc4d369a9396",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "opencode",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "openrouter-1",
@@ -36309,7 +37185,16 @@
       "hash": "574f99e35be81bf6f2dff6e229254452a17c188d",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "openrouter",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "openrouter",
@@ -36321,7 +37206,16 @@
       "hash": "a784f4fa7d18c329fe230aeba9ccb652674a0d09",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "openrouter",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "perplexity",
@@ -36333,7 +37227,16 @@
       "hash": "2a18541cb45c35b0ce5eb909f717ad2a967271fc",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "perplexity",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "phind",
@@ -36345,7 +37248,16 @@
       "hash": "a82c98c78038ad856205375cb794bd01f4a04953",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "phind",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "pika_art",
@@ -36357,7 +37269,17 @@
       "hash": "6ca4d7c603a17d4bd6c8c6a8efbbf1ddf652eb69",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "pika",
+        "art",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "pixverse",
@@ -36369,7 +37291,16 @@
       "hash": "ff1fb04c8027247c7dfe62d6ee672d28b3c604d7",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "pixverse",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "poe_ai",
@@ -36381,7 +37312,17 @@
       "hash": "62b9c738f93d79125571bc0eb680135c4b864faf",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "poe",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "qingyan-1",
@@ -36393,7 +37334,16 @@
       "hash": "a4d42c2b72b3c57baf8362c32667837209bf0d36",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "qingyan",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "qingyan",
@@ -36405,7 +37355,16 @@
       "hash": "415801bbd7e1606606eeb6ce072c554a863e8b4f",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "qingyan",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "qodo_ai",
@@ -36417,7 +37376,17 @@
       "hash": "8eaf269677aefe1a71047b1339b9abe1aceb4977",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "qodo",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "qwen-1",
@@ -36429,7 +37398,16 @@
       "hash": "ffb829d7a8b6f011152b5ab42b83a1b4ea011afe",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "qwen",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "qwen-2",
@@ -36441,7 +37419,16 @@
       "hash": "a2986673aefef097588ad533f976f1ce105a5b7b",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "qwen",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "qwen-3",
@@ -36453,7 +37440,16 @@
       "hash": "199552d833ba5ba45786bd57a738092a7b42c5e1",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "qwen",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "qwen",
@@ -36465,7 +37461,16 @@
       "hash": "8d7657bfa0bff064fa8fd8ccf12338f0859faad6",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "qwen",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "raycast",
@@ -36477,7 +37482,16 @@
       "hash": "eebf98d95c82c347e98082e28939a89421b6c92a",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "raycast",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "recraft",
@@ -36489,7 +37503,16 @@
       "hash": "300e19b2800faaf1de0280399c4814d07f4bddc4",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "recraft",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "replicate_ai",
@@ -36501,7 +37524,17 @@
       "hash": "c1f0534c06783f9fefc492b954be6af54d77b050",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "replicate",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "roo_code",
@@ -36513,7 +37546,17 @@
       "hash": "84391e6fdee818493680f83a850312503c77c9a3",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "development",
+      "categories": [
+        "development"
+      ],
+      "tags": [
+        "roo",
+        "code",
+        "development"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "runway_ml",
@@ -36525,7 +37568,17 @@
       "hash": "b048abc5bb63b0535ce987d5afc7d26cd4b02ef6",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "runway",
+        "ml",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "sensenova",
@@ -36537,7 +37590,16 @@
       "hash": "defec19b74d9899dec25ec2d332cefbe0fdd61e2",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "sensenova",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "silicon_cloud-1",
@@ -36549,7 +37611,17 @@
       "hash": "6f1ea4a8ed90ecf44bb385286226a963f8a1b17e",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "silicon",
+        "cloud",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "silicon_cloud",
@@ -36561,7 +37633,17 @@
       "hash": "5c2a7ab6aeef87adcfe9a612c1a41f57e3675ccc",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "silicon",
+        "cloud",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "silly_tavern",
@@ -36573,7 +37655,17 @@
       "hash": "d8d42a3f3140efc9648e8c7f83151d42dfee3731",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "silly",
+        "tavern",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "skywork_ai",
@@ -36585,7 +37677,17 @@
       "hash": "7bb4a82ec6333d8bb075a61aa199b504e2f38ea7",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "skywork",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "sora_ai-1",
@@ -36597,7 +37699,17 @@
       "hash": "22ab81f446fbdf406caf0a9be29a0c5472efd7d9",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "sora",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "sora_ai",
@@ -36609,7 +37721,17 @@
       "hash": "f19dbfedba183b92c15cfffe2c902a18272ed238",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "sora",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "stability_ai",
@@ -36621,7 +37743,17 @@
       "hash": "94f4d1022b46a7254a256891af4f72be5310539b",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "stability",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "step_fun",
@@ -36633,7 +37765,17 @@
       "hash": "b0e40733a756c751b8e1ea30cb07c7bf80ae5fe2",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "step",
+        "fun",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "suno_ai",
@@ -36645,7 +37787,17 @@
       "hash": "c253278f6d86420ab7435b2ae096c05245c143b9",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "suno",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "tencent_hunyuan",
@@ -36657,7 +37809,17 @@
       "hash": "d05075a639aecb06f95d1fe9105f28eaff9baef0",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "tencent",
+        "hunyuan",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "tencent_yuanbao-1",
@@ -36669,7 +37831,17 @@
       "hash": "079e101a275fa4a2d7f1591b4211c6dbdd789694",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "tencent",
+        "yuanbao",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "tencent_yuanbao",
@@ -36681,7 +37853,17 @@
       "hash": "bd4e370c2b0b668205f834b886c1b4e77593e708",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "tencent",
+        "yuanbao",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "together_ai",
@@ -36693,7 +37875,17 @@
       "hash": "27472b80c96fd633acae9211b0945879e58ffca8",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "together",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "udio_ai",
@@ -36705,7 +37897,17 @@
       "hash": "b82d38c0a1ab920f1a33e10bca0612a003e6e29b",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "udio",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "vidu_ai",
@@ -36717,7 +37919,17 @@
       "hash": "1bd050e298453c7f941ec86294c1bacee4e85e97",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "vidu",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "vllm",
@@ -36729,7 +37941,16 @@
       "hash": "cf1bd399a417a2222d23ebbc2a81167190e822e1",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "vllm",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "volcengine-1",
@@ -36741,7 +37962,16 @@
       "hash": "2db7beeefbb5f6e772a01161369e67c8b1673597",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "volcengine",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "volcengine",
@@ -36753,7 +37983,16 @@
       "hash": "a02a110e0c044f5410cb2520c2dd09c1170847ab",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "volcengine",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "wandb",
@@ -36765,7 +38004,16 @@
       "hash": "9a20f53bc054689df31fa9fcfa55bb453fb84e57",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "wandb",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "warp_terminal",
@@ -36777,7 +38025,20 @@
       "hash": "87ae0d4e997ce396422d0a2bec7331bb7d5a1a79",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "development",
+      "categories": [
+        "development",
+        "system-tools"
+      ],
+      "tags": [
+        "warp",
+        "terminal",
+        "development",
+        "system",
+        "tools"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "windsurf",
@@ -36789,7 +38050,16 @@
       "hash": "6919cf50352c4c2039a0df15d78e3efb6ad0ed42",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "windsurf",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "xai-1",
@@ -36801,7 +38071,16 @@
       "hash": "6ab7ea4ce15a2c5abddea7c60a9d6176f8788f2b",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "xai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "xai",
@@ -36813,7 +38092,16 @@
       "hash": "41ff96f477d21bdf822a438aff15dc4bbe89db41",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "xai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "xiaomi_mimo",
@@ -36825,7 +38113,17 @@
       "hash": "15a289de26b7575ea7d4dc914bd230c8591787d3",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "hardware",
+      "categories": [
+        "hardware"
+      ],
+      "tags": [
+        "xiaomi",
+        "mimo",
+        "hardware"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "yi_ai",
@@ -36837,7 +38135,17 @@
       "hash": "494f0dc62270f4ee24234e71f1e6453aea9a74f4",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "yi",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "youmind",
@@ -36849,7 +38157,16 @@
       "hash": "88f8401c83dd6e382784d8ab29afca49ff420d20",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "youmind",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "zed_editor",
@@ -36861,7 +38178,17 @@
       "hash": "25ca3fdf4f4562878495fb2127dda3d6562995c0",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "zed",
+        "editor",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "zhipu_ai-1",
@@ -36873,7 +38200,17 @@
       "hash": "fde9386f2e8a5394035213e5734802eb10b7f685",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "zhipu",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "zhipu_ai",
@@ -36885,22 +38222,36 @@
       "hash": "5c02fde85cc8e389673c37e0397c59d403e61130",
       "date": "2026-10-16T14:07:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "zhipu",
+        "ai",
+        "applications"
+      ],
+      "category_source": "fallback"
     }
   ],
   "categoryMetadata": {
     "schemaVersion": 1,
     "method": "deterministic-rules",
-    "currentIconCount": 1473,
-    "reviewCount": 34,
+    "currentIconCount": 1613,
+    "reviewCount": 152,
     "categoryCounts": [
       {
         "category": "development",
-        "count": 148
+        "count": 156
+      },
+      {
+        "category": "applications",
+        "count": 152
       },
       {
         "category": "design",
-        "count": 87
+        "count": 88
       },
       {
         "category": "media.video",
@@ -36928,7 +38279,7 @@
       },
       {
         "category": "hardware",
-        "count": 53
+        "count": 54
       },
       {
         "category": "gaming.pokemon",
@@ -36936,6 +38287,10 @@
       },
       {
         "category": "media.audio",
+        "count": 44
+      },
+      {
+        "category": "ai",
         "count": 44
       },
       {
@@ -36949,14 +38304,6 @@
       {
         "category": "media.photos",
         "count": 34
-      },
-      {
-        "category": "applications",
-        "count": 34
-      },
-      {
-        "category": "ai",
-        "count": 33
       },
       {
         "category": "development.embedded",
@@ -36987,12 +38334,12 @@
         "count": 22
       },
       {
-        "category": "development.databases",
+        "category": "web",
         "count": 20
       },
       {
-        "category": "web",
-        "count": 19
+        "category": "development.databases",
+        "count": 20
       },
       {
         "category": "generic",
