@@ -38244,7 +38244,16 @@
       "hash": "a2390b7bdfec96732f3a3ce5a425d8f445508278",
       "date": "2026-10-16T14:23:49+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "azahar",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "deepseek_harness-1",
@@ -38256,7 +38265,17 @@
       "hash": "40e103aaf00cb510a55a6aafd7867508c7ac9aef",
       "date": "2026-10-16T14:11:20+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "ai",
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "deepseek",
+        "harness",
+        "ai"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "zai-2",
@@ -38268,14 +38287,23 @@
       "hash": "c8cfa690fbb81cc2038dbc0d10507a6ec0cd7b16",
       "date": "2026-10-16T14:11:20+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "zai",
+        "applications"
+      ],
+      "category_source": "fallback"
     }
   ],
   "categoryMetadata": {
     "schemaVersion": 1,
     "method": "deterministic-rules",
-    "currentIconCount": 1613,
-    "reviewCount": 152,
+    "currentIconCount": 1614,
+    "reviewCount": 153,
     "categoryCounts": [
       {
         "category": "development",
@@ -38283,7 +38311,7 @@
       },
       {
         "category": "applications",
-        "count": 152
+        "count": 153
       },
       {
         "category": "design",
