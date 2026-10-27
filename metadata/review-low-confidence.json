@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewCount": 155,
+  "reviewCount": 212,
   "icons": [
     {
       "name": "nextcloud",
@@ -774,6 +774,291 @@
     },
     {
       "name": "librewolf",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "aliyun_drive",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "aria2",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "biglybt",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "bitcomet",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "box",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "caiyun",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "cloudme",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "ctdisk",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "degoo",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "deluge",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "egnyte",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "fdm",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "feiji_pan",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "filen",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "four_shared",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "frostwire",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "idrive",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "internxt",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "jumpshare",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "koofr",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "lanzou",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "mediafire",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "netdisk_115",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "nordlocker",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "nutstore",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "owncloud",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "pan_123",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "pikpak",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "proton_drive",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "qbittorrent",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "quark_drive",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "quark_drive_alt",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "quark_drive_badge",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "resilio_sync",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "rtorrent",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "seafile",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "smash",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "sugarsync",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "swisstransfer",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "sync_com",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "terabox",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "tianyi_cloud",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "tixati",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "tresorit",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "uc_netdisk",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "uptobox",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "vuze",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "webtorrent",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "weiyun",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "wetransfer",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "wormhole",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "xdown",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "xunlei_drive",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "xunlei_drive_alt",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "yandex_disk",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "yunpan_360",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "zoho_workdrive",
       "suggestedCategory": "applications",
       "reason": "No deterministic rule or manual override matched."
     }

@@ -38350,7 +38350,17 @@
       "hash": "cc6626f1f5dbbd763bad8ff80be8d5331c06e11a",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "aliyun",
+        "drive",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "aria2",
@@ -38362,7 +38372,16 @@
       "hash": "eb6ceec2b5ee7d56c2488f9d17a9c0f41d64f8e0",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "aria2",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "biglybt",
@@ -38374,7 +38393,16 @@
       "hash": "ec9aa781ff5dacee5e91bf23255dfcff4199521e",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "biglybt",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "bitcomet",
@@ -38386,7 +38414,16 @@
       "hash": "37126122c186ddf1144878ea3d6016cb2a794a6f",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "bitcomet",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "bittorrent-1",
@@ -38398,7 +38435,17 @@
       "hash": "17415c7732c4a8a852664663648f43c2dbff353e",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "download-transfer",
+      "categories": [
+        "download-transfer"
+      ],
+      "tags": [
+        "bittorrent",
+        "download",
+        "transfer"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "box",
@@ -38410,7 +38457,16 @@
       "hash": "4a123103db1fb409034888c5d50ee08bb92ae0c3",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "box",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "caiyun",
@@ -38422,7 +38478,16 @@
       "hash": "ff03751cfa328d44d4b7730333f32a9463415815",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "caiyun",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "cloudme",
@@ -38434,7 +38499,16 @@
       "hash": "0943572e1d3465aae08959f57c8fbea6b1d1dc53",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "cloudme",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "ctdisk",
@@ -38446,7 +38520,16 @@
       "hash": "fa7e6ed8073cb29fb7fd6a920f24e323bf9279f3",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "ctdisk",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "degoo",
@@ -38458,7 +38541,16 @@
       "hash": "ca11e61d21b969ae8c24412ff1e4649b05089c7f",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "degoo",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "deluge",
@@ -38470,7 +38562,16 @@
       "hash": "13625d1b950f88e0a59f0e33bd12e11920e97bfb",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "deluge",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "egnyte",
@@ -38482,7 +38583,16 @@
       "hash": "13f95a221f91c6068aeed18b70852e722141c224",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "egnyte",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "fdm",
@@ -38494,7 +38604,16 @@
       "hash": "5d9fc8533fead2dce60a71e15d00feafacfb7eda",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "fdm",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "feiji_pan",
@@ -38506,7 +38625,17 @@
       "hash": "d788e67f7c07e86fb7efbd7abb153368541d6c58",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "feiji",
+        "pan",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "filen",
@@ -38518,7 +38647,16 @@
       "hash": "0840c9b4e914044467f8cf2c1f0e97f1087327c1",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "filen",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "four_shared",
@@ -38530,7 +38668,17 @@
       "hash": "b6986944a925c220eee98fb94bcc6f2272a15cbc",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "four",
+        "shared",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "frostwire",
@@ -38542,7 +38690,16 @@
       "hash": "dfe8ebc35246a3e8372f0ff466199ed2594f2288",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "frostwire",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "idrive",
@@ -38554,7 +38711,16 @@
       "hash": "be3a2ccf4c12f7867c9ca58fd591ec6f7460ea22",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "idrive",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "internxt",
@@ -38566,7 +38732,16 @@
       "hash": "5a70a62f91cfffee135a128afc4a9599de2a1dad",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "internxt",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "jumpshare",
@@ -38578,7 +38753,16 @@
       "hash": "2316e7915cbc7a2df52071925032aa74694242bc",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "jumpshare",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "koofr",
@@ -38590,7 +38774,16 @@
       "hash": "2b9863b7f7d95a46cda446b2f00ddcc7c1256161",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "koofr",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "lanzou",
@@ -38602,7 +38795,16 @@
       "hash": "6e9760073562022c953ae8333391853465121f6d",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "lanzou",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "mediafire",
@@ -38614,7 +38816,16 @@
       "hash": "4fea617979c593974066ad3c9b2028d3dd6482ec",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "mediafire",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "motrix",
@@ -38626,7 +38837,17 @@
       "hash": "15f10b5298d1d1f00327006f8c9f914fe1902e91",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "download-transfer",
+      "categories": [
+        "download-transfer"
+      ],
+      "tags": [
+        "motrix",
+        "download",
+        "transfer"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "netdisk_115",
@@ -38638,7 +38859,16 @@
       "hash": "92800c3fdc25de3c224927d2478d033698f54ff4",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "netdisk",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "nordlocker",
@@ -38650,7 +38880,16 @@
       "hash": "8e98fa2173eb0a982cc44a890f5f7349264ac052",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "nordlocker",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "nutstore",
@@ -38662,7 +38901,16 @@
       "hash": "cf1046e89c00bb44bd1a36ad84da57472fad4bf7",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "nutstore",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "owncloud",
@@ -38674,7 +38922,16 @@
       "hash": "285446e6d2f30a3cf37d205d1503cb0b12acd6b2",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "owncloud",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "pan_123",
@@ -38686,7 +38943,16 @@
       "hash": "2b61caac694a3953f208a9f9eb8865666a5ce0a2",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "pan",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "pikpak",
@@ -38698,7 +38964,16 @@
       "hash": "eed2af578509417a32c357f32c689694cb537391",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "pikpak",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "proton_drive",
@@ -38710,7 +38985,17 @@
       "hash": "68cb65cbcc1827eaafffe5ef345a9a8cf5ca3ae0",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "proton",
+        "drive",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "qbittorrent",
@@ -38722,7 +39007,16 @@
       "hash": "a287c20739a7a7d02077c0fb0e8b3a1b1947e035",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "qbittorrent",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "quark_drive",
@@ -38734,7 +39028,17 @@
       "hash": "ca6bce421e81a56424a8ff36d88f604177a6de5b",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "quark",
+        "drive",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "quark_drive_alt",
@@ -38746,7 +39050,18 @@
       "hash": "6f33476856418c507ba1b7e2f93d2925be3e0ec1",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "quark",
+        "drive",
+        "alt",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "quark_drive_badge",
@@ -38758,7 +39073,18 @@
       "hash": "a5f9ee901c61d53da45d212725ab9c78f82e4340",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "quark",
+        "drive",
+        "badge",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "resilio_sync",
@@ -38770,7 +39096,17 @@
       "hash": "7bf89f74e95f499b7201d7ff1c37f8e935e155a3",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "resilio",
+        "sync",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "rtorrent",
@@ -38782,7 +39118,16 @@
       "hash": "bc826eb063ff41d87faa3c3a94a223969ed91c26",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "rtorrent",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "seafile",
@@ -38794,7 +39139,16 @@
       "hash": "6487adde3f98f16427a3188c86de277f94ddd9dc",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "seafile",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "smash",
@@ -38806,7 +39160,16 @@
       "hash": "f48ee335520b7570519c97ea704be8a4718e52bb",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "smash",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "sugarsync",
@@ -38818,7 +39181,16 @@
       "hash": "c6263e3791e7e65cdafee46a423053ae73284668",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "sugarsync",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "swisstransfer",
@@ -38830,7 +39202,16 @@
       "hash": "3b4ed414c000b11f45e9015d0a837531a05116b6",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "swisstransfer",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "sync_com",
@@ -38842,7 +39223,17 @@
       "hash": "0e0baeb61efe2c5136397217b6ebf3a571631ff2",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "sync",
+        "com",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "terabox",
@@ -38854,7 +39245,16 @@
       "hash": "2c191ba7f78edde0612672e5c7726dba5b0be3eb",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "terabox",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "tianyi_cloud",
@@ -38866,7 +39266,17 @@
       "hash": "231fa4c7e5801a2e7ed0ed895fd314ec8638c194",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "tianyi",
+        "cloud",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "tixati",
@@ -38878,7 +39288,16 @@
       "hash": "6f5cc1d132f0e5a0ad557994629176acc34dfe16",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "tixati",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "tresorit",
@@ -38890,7 +39309,16 @@
       "hash": "d020cebc769e420459422330f24ded10a70c59bc",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "tresorit",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "uc_netdisk",
@@ -38902,7 +39330,17 @@
       "hash": "ab71c66092f98123fed21aa3c65feb7df718e4e9",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "uc",
+        "netdisk",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "uptobox",
@@ -38914,7 +39352,16 @@
       "hash": "9c74359dd06e4364c7a241eaf3c780c91fbd91a3",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "uptobox",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "utorrent-1",
@@ -38926,7 +39373,17 @@
       "hash": "83af13145e437e2b6317175d8e2b55575e76783e",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "download-transfer",
+      "categories": [
+        "download-transfer"
+      ],
+      "tags": [
+        "utorrent",
+        "download",
+        "transfer"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "vuze",
@@ -38938,7 +39395,16 @@
       "hash": "e5a419384f6083852a7b470d75aa42e7e974cfe6",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "vuze",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "webtorrent",
@@ -38950,7 +39416,16 @@
       "hash": "d0b13c97fa41b7bed87b361acfd94d5a9fcd7aa0",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "webtorrent",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "weiyun",
@@ -38962,7 +39437,16 @@
       "hash": "2c81d8cc31d3316048388ac4590e01425929e10e",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "weiyun",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "wetransfer",
@@ -38974,7 +39458,16 @@
       "hash": "ec34440cbd2c7a490d9834f4894f658e31069117",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "wetransfer",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "wormhole",
@@ -38986,7 +39479,16 @@
       "hash": "b4b7c6ef33fef281edb789d9353492b7be1e86e1",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "wormhole",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "xdown",
@@ -38998,7 +39500,16 @@
       "hash": "0d02f3370876a6aace9ee642c1d556aafed17208",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "xdown",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "xunlei_drive",
@@ -39010,7 +39521,17 @@
       "hash": "d78dcda9a9552d6c929ce7a8a0f5213f8d5ef3b7",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "xunlei",
+        "drive",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "xunlei_drive_alt",
@@ -39022,7 +39543,18 @@
       "hash": "16e51914b4c3d773c85cf4d7296027e1e6c64da6",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "xunlei",
+        "drive",
+        "alt",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "yandex_disk",
@@ -39034,7 +39566,17 @@
       "hash": "26ff9f43fe3f3c9ae53139a582072d8e278f7390",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "yandex",
+        "disk",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "yunpan_360",
@@ -39046,7 +39588,16 @@
       "hash": "4eed9d957be43e110edda13dc39c58bb3124f66f",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "yunpan",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "zoho_workdrive",
@@ -39058,22 +39609,32 @@
       "hash": "78948041ec7727c6e9a67025c2c3e8424b385e5f",
       "date": "2026-10-27T12:41:58+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "zoho",
+        "workdrive",
+        "applications"
+      ],
+      "category_source": "fallback"
     }
   ],
   "categoryMetadata": {
     "schemaVersion": 1,
     "method": "deterministic-rules",
-    "currentIconCount": 1616,
-    "reviewCount": 155,
+    "currentIconCount": 1676,
+    "reviewCount": 212,
     "categoryCounts": [
+      {
+        "category": "applications",
+        "count": 212
+      },
       {
         "category": "development",
         "count": 156
-      },
-      {
-        "category": "applications",
-        "count": 155
       },
       {
         "category": "design",
@@ -39136,6 +39697,10 @@
         "count": 31
       },
       {
+        "category": "download-transfer",
+        "count": 27
+      },
+      {
         "category": "productivity.documents",
         "count": 25
       },
@@ -39146,10 +39711,6 @@
       {
         "category": "gaming.consoles",
         "count": 25
-      },
-      {
-        "category": "download-transfer",
-        "count": 24
       },
       {
         "category": "cloud",
