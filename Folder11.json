@@ -39631,7 +39631,17 @@
       "hash": "943477102e300c901bd93e77d8fde3258461a3d0",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "marketplaces",
+      "categories": [
+        "marketplaces"
+      ],
+      "tags": [
+        "app",
+        "store",
+        "marketplaces"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "apple-1",
@@ -39643,7 +39653,16 @@
       "hash": "fb87235951dab4d5a3e099c51388aea9c90b436f",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "apple",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "apple-2",
@@ -39655,7 +39674,16 @@
       "hash": "b1919c99ed109debe1724e2abc6e1730cccdb819",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "apple",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "apple-3",
@@ -39667,7 +39695,16 @@
       "hash": "d1a027ec38fd0ebfd56961ecadd1b5629967349a",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "apple",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "apple-4",
@@ -39679,7 +39716,16 @@
       "hash": "866c26dba36479e9df704353c9170f7c87f44f17",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "apple",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "apple",
@@ -39691,7 +39737,16 @@
       "hash": "2566b02446cf3deab26011f2016f441d2307208d",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "apple",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "apple_pay-1",
@@ -39703,7 +39758,17 @@
       "hash": "9b17f31cbd97f9c4f04b8ebf910ae7f6e87deb8d",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "apple",
+        "pay",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "apple_pay-2",
@@ -39715,7 +39780,17 @@
       "hash": "f775d2e94a76bc446db2e1201ff8b7f9e17f7023",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "apple",
+        "pay",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "apple_rainbow-1",
@@ -39727,7 +39802,17 @@
       "hash": "28965b4c3eafe88123ad2c93d9e9f0163b5ec9db",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "apple",
+        "rainbow",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "apple_rainbow-2",
@@ -39739,7 +39824,17 @@
       "hash": "305444ebe48623bbb27c7abd2fd0b4328be22747",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "apple",
+        "rainbow",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "asus-1",
@@ -39751,7 +39846,16 @@
       "hash": "b6fa02cd7f64a35b96a5403232c4e2b35d61be19",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "hardware",
+      "categories": [
+        "hardware"
+      ],
+      "tags": [
+        "asus",
+        "hardware"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "blackberry-1",
@@ -39763,7 +39867,16 @@
       "hash": "cd68bc7759d95eed8c505a1fe3d30ad57d0533aa",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "blackberry",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "blackberry-2",
@@ -39775,7 +39888,16 @@
       "hash": "3224e96e6faeb86124369c9957c53b244a201545",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "blackberry",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "blackberry-3",
@@ -39787,7 +39909,16 @@
       "hash": "e25de4ad09aa4830817c941feb92e60f48ebed4a",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "blackberry",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "blackberry-4",
@@ -39799,7 +39930,16 @@
       "hash": "8c867aacd998587bb747b2ac664d0f58fa556771",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "blackberry",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "honor-1",
@@ -39811,7 +39951,16 @@
       "hash": "4f642e636d587761737e3346c03ffabc9e87f39b",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "honor",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "honor-2",
@@ -39823,7 +39972,16 @@
       "hash": "46be539bd05afbad5f92bfb54041eabd562ce3cc",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "honor",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "honor-3",
@@ -39835,7 +39993,16 @@
       "hash": "605b9ee2671b5eecc18e9b2acc2cdb0b70e817bc",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "honor",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "honor",
@@ -39847,7 +40014,16 @@
       "hash": "1a94c2785e22bd71eb3eea96b1d526619ca473b1",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "honor",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "htc-1",
@@ -39859,7 +40035,16 @@
       "hash": "1287c30fc723cca57ff23498681617b03cc2ff07",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "htc",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "htc",
@@ -39871,7 +40056,16 @@
       "hash": "6a1798eea2fed07db06c2e5d1fbaac2865d95473",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "htc",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "huawei-1",
@@ -39883,7 +40077,16 @@
       "hash": "8f402b7941be842d9d36d4e9a9d6fd869d908b53",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "hardware",
+      "categories": [
+        "hardware"
+      ],
+      "tags": [
+        "huawei",
+        "hardware"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "huawei-2",
@@ -39895,7 +40098,16 @@
       "hash": "766fb2020d58a605835c5dd2b900a16e6013910f",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "hardware",
+      "categories": [
+        "hardware"
+      ],
+      "tags": [
+        "huawei",
+        "hardware"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "huawei-3",
@@ -39907,7 +40119,16 @@
       "hash": "b6aa9745c2b59640f47e70cde4ed966ddd0c2f6c",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "hardware",
+      "categories": [
+        "hardware"
+      ],
+      "tags": [
+        "huawei",
+        "hardware"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "infinix-1",
@@ -39919,7 +40140,16 @@
       "hash": "2ec10fb4c03aca226e70165bfd7df51285ab5986",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "infinix",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "infinix-2",
@@ -39931,7 +40161,16 @@
       "hash": "1263beb17d7b0a297c8123f9cad1ed4509633fc5",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "infinix",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "infinix",
@@ -39943,7 +40182,16 @@
       "hash": "3b9de586bb159c7e1ada3b50ff059f93ea6af063",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "infinix",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "iphone-1",
@@ -39955,7 +40203,16 @@
       "hash": "76ed476d7d2150882eb38fee617d957dad6a1ccc",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "iphone",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "iphone-2",
@@ -39967,7 +40224,16 @@
       "hash": "60ddabe63a5bcc29dd34e25f21cf114561a89d97",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "iphone",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "iqoo-1",
@@ -39979,7 +40245,16 @@
       "hash": "eb7c268d7120d916841f1f87fd6cffc4c27561eb",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "iqoo",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "iqoo",
@@ -39991,7 +40266,16 @@
       "hash": "e09206b2bdd1b002db89f9e3c9ed72ad585960a2",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "iqoo",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "itel-1",
@@ -40003,7 +40287,16 @@
       "hash": "9c6a1e3fd508b809ef07e7b5bd0dfcd9663ab0f6",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "itel",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "itel",
@@ -40015,7 +40308,16 @@
       "hash": "65192ca77104d17c4d593549d0b28e747b5a4381",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "itel",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "meizu-1",
@@ -40027,7 +40329,16 @@
       "hash": "99eb006fe0cc57f628a98a867f7cd36870f09331",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "meizu",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "meizu",
@@ -40039,7 +40350,16 @@
       "hash": "126338f5bb5473ffb5badb87009733228d346594",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "meizu",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "micromax-1",
@@ -40051,7 +40371,16 @@
       "hash": "bae0def10eba8ae65c543b5340c82083b4f4b1a3",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "micromax",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "micromax",
@@ -40063,7 +40392,16 @@
       "hash": "d580c6d9a3e2d5d3e61ff943d2275ae2f48030c5",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "micromax",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "motorola-1",
@@ -40075,7 +40413,16 @@
       "hash": "cfd865c810b224217477f0702cdb98e0885cc59c",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "motorola",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "motorola",
@@ -40087,7 +40434,16 @@
       "hash": "70e65355f7e4f72ebcdf8f4327af5cb29d825589",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "motorola",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "nokia-1",
@@ -40099,7 +40455,16 @@
       "hash": "b40dd04aa7ef8d83dc8c25d87f26b867878d0d20",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "nokia",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "nokia-2",
@@ -40111,7 +40476,16 @@
       "hash": "1ac41052cecde2c862f66c245ea7eaab1a2660e6",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "nokia",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "nokia",
@@ -40123,7 +40497,16 @@
       "hash": "bac06c7e0ca515784e905727a7031b47aa973c10",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "nokia",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "nothing-1",
@@ -40135,7 +40518,16 @@
       "hash": "ccc4e759b2dd0c2bcfc4ab527fdae389da048e60",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "nothing",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "nothing",
@@ -40147,7 +40539,16 @@
       "hash": "8997f59fad424a7111edbb7b09f33ebaabf9b933",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "nothing",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "nubia-1",
@@ -40159,7 +40560,16 @@
       "hash": "3c8f63aaa0465a7a03e6098caf49e91ae6754209",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "nubia",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "nubia",
@@ -40171,7 +40581,16 @@
       "hash": "c3ebc8a80060cd5c953ed95a73c531d98612752b",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "nubia",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "oneplus-1",
@@ -40183,7 +40602,16 @@
       "hash": "f792746226a97ceab7695679c3557416f9fc8c87",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "oneplus",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "oneplus-2",
@@ -40195,7 +40623,16 @@
       "hash": "18622aa57495b9b317c49e857f8f2c99b12956af",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "oneplus",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "oneplus-3",
@@ -40207,7 +40644,16 @@
       "hash": "6fb5cafb9d9c45125fcec1385f01e7306847e44e",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "oneplus",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "oneplus",
@@ -40219,7 +40665,16 @@
       "hash": "7ebd2178b0a862af03c9fe497262749339fbb429",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "oneplus",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "oppo-1",
@@ -40231,7 +40686,16 @@
       "hash": "4008207353d5f685af565c3702275d9b5ec9c1f3",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "oppo",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "oppo-2",
@@ -40243,7 +40707,16 @@
       "hash": "da4e4ada4cc2be14b118414bab10ca6dea3b1847",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "oppo",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "oppo-3",
@@ -40255,7 +40728,16 @@
       "hash": "7535eea35e11a518767faeb055a724f8a50ff4fb",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "oppo",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "oppo-4",
@@ -40267,7 +40749,16 @@
       "hash": "f0acf61f801c2863de7590215ddf2f3f4d97cd94",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "oppo",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "oppo",
@@ -40279,7 +40770,16 @@
       "hash": "3454f2da8d51351f58baf792add8061ae1276c4d",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "oppo",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "pixel",
@@ -40291,7 +40791,16 @@
       "hash": "0991e5128aa02936c3fbb9c4ebc31ac952aa5cd2",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "pixel",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "redmagic-1",
@@ -40303,7 +40812,16 @@
       "hash": "d7800062c74144ec4ffe0b0ce0af8dc844f50725",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "redmagic",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "redmagic",
@@ -40315,7 +40833,16 @@
       "hash": "a0ffeac0054635737a97e3ef4d21137eecd9ab56",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "redmagic",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "redmi-1",
@@ -40327,7 +40854,16 @@
       "hash": "020c3ade6ada3c31117fbd1c48e7cb029cc72043",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "redmi",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "redmi-2",
@@ -40339,7 +40875,16 @@
       "hash": "a2af94a5f7c48c932af83c970151a87a123737fe",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "redmi",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "redmi",
@@ -40351,7 +40896,16 @@
       "hash": "5d8b6493b8abe5f108ba2610050f3da0a78a0d93",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "redmi",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "samsung-1",
@@ -40363,7 +40917,16 @@
       "hash": "c9f8491304d11ddff0a2dacbc4664211a731bd6f",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "samsung",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "samsung-2",
@@ -40375,7 +40938,16 @@
       "hash": "d4fed16e337f4b6e882d0c93dc4f579c7567680f",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "samsung",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "samsung-3",
@@ -40387,7 +40959,16 @@
       "hash": "6cb43ae8734c6363358600d8b81f71361413a8ba",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "samsung",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "samsung-4",
@@ -40399,7 +40980,16 @@
       "hash": "05cdcfe258b68967a6d3a09b202081620032201f",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "samsung",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "samsung",
@@ -40411,7 +41001,16 @@
       "hash": "125a80cee08bbd4a74b6fa2cb671e545caae2dd4",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "samsung",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "samsung_galaxy-1",
@@ -40423,7 +41022,17 @@
       "hash": "619cefc19764696072a51726b098e1157ed1bb69",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "samsung",
+        "galaxy",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "samsung_galaxy",
@@ -40435,7 +41044,17 @@
       "hash": "5e51e4de8cc5b0131a4125cd13dcf11c3c817f6f",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "samsung",
+        "galaxy",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "sony-1",
@@ -40447,7 +41066,16 @@
       "hash": "9c3d9b42b1dc6f805a6b041f600896acb6447f20",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "sony",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "sony",
@@ -40459,7 +41087,16 @@
       "hash": "a945509c1953131601b6adb06a384d2b2e143327",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "sony",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "sony_ericsson",
@@ -40471,7 +41108,17 @@
       "hash": "2261dc785ffc97a63423e34a59eac7754c3d1194",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "sony",
+        "ericsson",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "sony_xperia-1",
@@ -40483,7 +41130,17 @@
       "hash": "62f30fb0ed07598b01a27d0c98ba976e7ff7d583",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "sony",
+        "xperia",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "sony_xperia",
@@ -40495,7 +41152,17 @@
       "hash": "1b5a320c2a4695ccd34ed3b749b2dee1edf04309",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "sony",
+        "xperia",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "tecno-1",
@@ -40507,7 +41174,16 @@
       "hash": "4f8374eed77d784f8ca5787bf9db20c97d37d621",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "tecno",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "tecno",
@@ -40519,7 +41195,16 @@
       "hash": "beeb5e6064a0de23c097601b654d748ce3e0b733",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "tecno",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "vivo-1",
@@ -40531,7 +41216,16 @@
       "hash": "8f5320194a1e5523df9aaf233a8f5327f077b9a2",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "vivo",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "vivo-2",
@@ -40543,7 +41237,16 @@
       "hash": "f9740ab48cb2520194cab02e68f359db1909efe1",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "vivo",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "vivo-3",
@@ -40555,7 +41258,16 @@
       "hash": "ae75563b6bd9f3d23d8da30fac3b81a01b1877c6",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "vivo",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "vivo-4",
@@ -40567,7 +41279,16 @@
       "hash": "1a5bb675dc812eb00c196447ab20f5bc022ce378",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "vivo",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "vivo",
@@ -40579,7 +41300,16 @@
       "hash": "404ab75ef62069726853d55ae1772dda0be08bdb",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "vivo",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "xiaomi-2",
@@ -40591,7 +41321,16 @@
       "hash": "4a82a5f8e25aa7a52025fbd13c86f9e966d1a9bd",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "hardware",
+      "categories": [
+        "hardware"
+      ],
+      "tags": [
+        "xiaomi",
+        "hardware"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "xiaomi-3",
@@ -40603,7 +41342,16 @@
       "hash": "f23b83353f00bf42af5ed9b0d004025af163a7a5",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "hardware",
+      "categories": [
+        "hardware"
+      ],
+      "tags": [
+        "xiaomi",
+        "hardware"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "xiaomi-4",
@@ -40615,7 +41363,16 @@
       "hash": "bf561787085c6a185917aa89fb62955e7cbf32e4",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "hardware",
+      "categories": [
+        "hardware"
+      ],
+      "tags": [
+        "xiaomi",
+        "hardware"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "xiaomi-5",
@@ -40627,7 +41384,16 @@
       "hash": "d841151ff7711b7f5e33f13a01e887eb94d08841",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "hardware",
+      "categories": [
+        "hardware"
+      ],
+      "tags": [
+        "xiaomi",
+        "hardware"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "xiaomi-6",
@@ -40639,7 +41405,16 @@
       "hash": "08bc49fab9e6d53b5061867d615f54294e9901b3",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "hardware",
+      "categories": [
+        "hardware"
+      ],
+      "tags": [
+        "xiaomi",
+        "hardware"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "zte-1",
@@ -40651,7 +41426,16 @@
       "hash": "47b69400bd6fb0d106354304be5ff8ca4595713a",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "zte",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "zte",
@@ -40663,18 +41447,27 @@
       "hash": "a91888d9e0da232fd213d1ef0dd357a6b7316198",
       "date": "2026-11-07T22:28:30+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "zte",
+        "applications"
+      ],
+      "category_source": "fallback"
     }
   ],
   "categoryMetadata": {
     "schemaVersion": 1,
     "method": "deterministic-rules",
-    "currentIconCount": 1676,
-    "reviewCount": 212,
+    "currentIconCount": 1763,
+    "reviewCount": 289,
     "categoryCounts": [
       {
         "category": "applications",
-        "count": 212
+        "count": 289
       },
       {
         "category": "development",
@@ -40693,6 +41486,10 @@
         "count": 68
       },
       {
+        "category": "hardware",
+        "count": 63
+      },
+      {
         "category": "productivity",
         "count": 63
       },
@@ -40707,10 +41504,6 @@
       {
         "category": "gaming.minecraft",
         "count": 56
-      },
-      {
-        "category": "hardware",
-        "count": 54
       },
       {
         "category": "gaming.pokemon",
@@ -40857,6 +41650,10 @@
         "count": 5
       },
       {
+        "category": "marketplaces",
+        "count": 5
+      },
+      {
         "category": "development.cpp",
         "count": 5
       },
@@ -40878,10 +41675,6 @@
       },
       {
         "category": "design.cad",
-        "count": 4
-      },
-      {
-        "category": "marketplaces",
         "count": 4
       },
       {

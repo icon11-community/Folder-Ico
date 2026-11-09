@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewCount": 212,
+  "reviewCount": 289,
   "icons": [
     {
       "name": "nextcloud",
@@ -1059,6 +1059,391 @@
     },
     {
       "name": "zoho_workdrive",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "apple-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "apple-2",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "apple-3",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "apple-4",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "apple",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "apple_pay-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "apple_pay-2",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "apple_rainbow-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "apple_rainbow-2",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "blackberry-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "blackberry-2",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "blackberry-3",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "blackberry-4",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "honor-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "honor-2",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "honor-3",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "honor",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "htc-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "htc",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "infinix-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "infinix-2",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "infinix",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "iphone-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "iphone-2",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "iqoo-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "iqoo",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "itel-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "itel",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "meizu-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "meizu",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "micromax-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "micromax",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "motorola-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "motorola",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "nokia-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "nokia-2",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "nokia",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "nothing-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "nothing",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "nubia-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "nubia",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "oneplus-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "oneplus-2",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "oneplus-3",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "oneplus",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "oppo-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "oppo-2",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "oppo-3",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "oppo-4",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "oppo",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "pixel",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "redmagic-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "redmagic",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "redmi-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "redmi-2",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "redmi",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "samsung-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "samsung-2",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "samsung-3",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "samsung-4",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "samsung",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "samsung_galaxy-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "samsung_galaxy",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "sony-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "sony",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "sony_ericsson",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "sony_xperia-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "sony_xperia",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "tecno-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "tecno",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "vivo-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "vivo-2",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "vivo-3",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "vivo-4",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "vivo",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "zte-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "zte",
       "suggestedCategory": "applications",
       "reason": "No deterministic rule or manual override matched."
     }
