@@ -41468,7 +41468,17 @@
       "hash": "5947bc1080ec36ac4e2a492ade36220e54495783",
       "date": "2026-11-23T09:48:37+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "dolphin",
+        "emulator",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "dolphin_emulator",
@@ -41480,7 +41490,17 @@
       "hash": "8e759b4ea4d1bcdb9ec5fabcb46e8f567d3f06b2",
       "date": "2026-11-23T09:48:37+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "dolphin",
+        "emulator",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "pcsx2-1",
@@ -41492,7 +41512,16 @@
       "hash": "018d17ccbe7ea4a2cd9e776f4394a6a065faf853",
       "date": "2026-11-23T09:48:37+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "pcsx2",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "pcsx2",
@@ -41504,7 +41533,16 @@
       "hash": "38d1a70f005f7b18d5657f980f9c58309e6592e0",
       "date": "2026-11-23T09:48:37+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "pcsx2",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "ppsspp-1",
@@ -41516,7 +41554,16 @@
       "hash": "fd614f5a827f25c138fa6573910b4a3e540424fd",
       "date": "2026-11-23T09:48:37+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "ppsspp",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "ppsspp",
@@ -41528,7 +41575,16 @@
       "hash": "bd547bc3cea3c39b0a385b49fa43dd5872df794c",
       "date": "2026-11-23T09:48:37+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "ppsspp",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "retroarch-1",
@@ -41540,7 +41596,16 @@
       "hash": "5fd4b5d8ad4899cfe659803999e00b78d58e2da8",
       "date": "2026-11-23T09:48:37+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "retroarch",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "retroarch",
@@ -41552,18 +41617,27 @@
       "hash": "215492018d312fe102f4acf17404b2565a155eb7",
       "date": "2026-11-23T09:48:37+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "retroarch",
+        "applications"
+      ],
+      "category_source": "fallback"
     }
   ],
   "categoryMetadata": {
     "schemaVersion": 1,
     "method": "deterministic-rules",
-    "currentIconCount": 1763,
-    "reviewCount": 289,
+    "currentIconCount": 1771,
+    "reviewCount": 297,
     "categoryCounts": [
       {
         "category": "applications",
-        "count": 289
+        "count": 297
       },
       {
         "category": "development",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewCount": 289,
+  "reviewCount": 297,
   "icons": [
     {
       "name": "nextcloud",
@@ -1444,6 +1444,46 @@
     },
     {
       "name": "zte",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "dolphin_emulator-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "dolphin_emulator",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "pcsx2-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "pcsx2",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "ppsspp-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "ppsspp",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "retroarch-1",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "retroarch",
       "suggestedCategory": "applications",
       "reason": "No deterministic rule or manual override matched."
     }
