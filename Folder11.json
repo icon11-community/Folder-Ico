@@ -41457,6 +41457,102 @@
         "applications"
       ],
       "category_source": "fallback"
+    },
+    {
+      "name": "dolphin_emulator-1",
+      "author": "danield4n13l",
+      "author_link": "https://github.com/danield4n13l",
+      "author_profile": "https://avatars.githubusercontent.com/u/13077365?v=4",
+      "size": 313398,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/dolphin_emulator-1.ico",
+      "hash": "5947bc1080ec36ac4e2a492ade36220e54495783",
+      "date": "2026-11-23T09:48:37+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "dolphin_emulator",
+      "author": "danield4n13l",
+      "author_link": "https://github.com/danield4n13l",
+      "author_profile": "https://avatars.githubusercontent.com/u/13077365?v=4",
+      "size": 313398,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/dolphin_emulator.ico",
+      "hash": "8e759b4ea4d1bcdb9ec5fabcb46e8f567d3f06b2",
+      "date": "2026-11-23T09:48:37+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "pcsx2-1",
+      "author": "danield4n13l",
+      "author_link": "https://github.com/danield4n13l",
+      "author_profile": "https://avatars.githubusercontent.com/u/13077365?v=4",
+      "size": 313398,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/pcsx2-1.ico",
+      "hash": "018d17ccbe7ea4a2cd9e776f4394a6a065faf853",
+      "date": "2026-11-23T09:48:37+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "pcsx2",
+      "author": "danield4n13l",
+      "author_link": "https://github.com/danield4n13l",
+      "author_profile": "https://avatars.githubusercontent.com/u/13077365?v=4",
+      "size": 313398,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/pcsx2.ico",
+      "hash": "38d1a70f005f7b18d5657f980f9c58309e6592e0",
+      "date": "2026-11-23T09:48:37+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "ppsspp-1",
+      "author": "danield4n13l",
+      "author_link": "https://github.com/danield4n13l",
+      "author_profile": "https://avatars.githubusercontent.com/u/13077365?v=4",
+      "size": 313398,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ppsspp-1.ico",
+      "hash": "fd614f5a827f25c138fa6573910b4a3e540424fd",
+      "date": "2026-11-23T09:48:37+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "ppsspp",
+      "author": "danield4n13l",
+      "author_link": "https://github.com/danield4n13l",
+      "author_profile": "https://avatars.githubusercontent.com/u/13077365?v=4",
+      "size": 313398,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ppsspp.ico",
+      "hash": "bd547bc3cea3c39b0a385b49fa43dd5872df794c",
+      "date": "2026-11-23T09:48:37+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "retroarch-1",
+      "author": "danield4n13l",
+      "author_link": "https://github.com/danield4n13l",
+      "author_profile": "https://avatars.githubusercontent.com/u/13077365?v=4",
+      "size": 313398,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/retroarch-1.ico",
+      "hash": "5fd4b5d8ad4899cfe659803999e00b78d58e2da8",
+      "date": "2026-11-23T09:48:37+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "retroarch",
+      "author": "danield4n13l",
+      "author_link": "https://github.com/danield4n13l",
+      "author_profile": "https://avatars.githubusercontent.com/u/13077365?v=4",
+      "size": 313398,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/retroarch.ico",
+      "hash": "215492018d312fe102f4acf17404b2565a155eb7",
+      "date": "2026-11-23T09:48:37+07:00",
+      "small_svg_url": "",
+      "is_history": false
     }
   ],
   "categoryMetadata": {
