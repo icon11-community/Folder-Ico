@@ -41627,6 +41627,18 @@
         "applications"
       ],
       "category_source": "fallback"
+    },
+    {
+      "name": "yugioh",
+      "author": "SashaIr",
+      "author_link": "https://github.com/SashaIr",
+      "author_profile": "https://avatars.githubusercontent.com/u/17984906?v=4",
+      "size": 313398,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/yugioh.ico",
+      "hash": "d449bcde2cabb3c71016ec6200836430c09897a7",
+      "date": "2026-11-28T23:46:59+07:00",
+      "small_svg_url": "",
+      "is_history": false
     }
   ],
   "categoryMetadata": {
