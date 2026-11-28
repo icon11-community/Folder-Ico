@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewCount": 297,
+  "reviewCount": 298,
   "icons": [
     {
       "name": "nextcloud",
@@ -1484,6 +1484,11 @@
     },
     {
       "name": "retroarch",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "yugioh",
       "suggestedCategory": "applications",
       "reason": "No deterministic rule or manual override matched."
     }

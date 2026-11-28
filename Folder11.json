@@ -41638,18 +41638,27 @@
       "hash": "d449bcde2cabb3c71016ec6200836430c09897a7",
       "date": "2026-11-28T23:46:59+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "yugioh",
+        "applications"
+      ],
+      "category_source": "fallback"
     }
   ],
   "categoryMetadata": {
     "schemaVersion": 1,
     "method": "deterministic-rules",
-    "currentIconCount": 1771,
-    "reviewCount": 297,
+    "currentIconCount": 1772,
+    "reviewCount": 298,
     "categoryCounts": [
       {
         "category": "applications",
-        "count": 297
+        "count": 298
       },
       {
         "category": "development",
